@@ -1,0 +1,46 @@
+{
+  "_source": "Офіційний список експонентів CPHI Worldwide Milan 2026 (6-8 жовтня, Fiera Milano Rho), наданий користувачем; company_key зіставлено вручну з нашою базою постачальників за назвою компанії.",
+  "exhibitors": [
+    {"key": "unilabchem.com", "name": "Unilab Chemicals and Pharmaceuticals Pvt. Ltd.", "hall": "2", "stand": "F124", "purpose": "", "source": "лист 17.08.2026 + офіційний список"},
+    {"key": "divislabs.com", "name": "Divi's Laboratories Limited", "hall": "2", "stand": "A2", "purpose": "", "source": "лист 02.07.2026 + офіційний список"},
+    {"key": "aurorels.com", "name": "Aurore Life Sciences Pvt. Ltd.", "hall": "7", "stand": "G49", "purpose": "", "source": "лист 03.07.2026 + офіційний список"},
+    {"key": "zyduslife.com", "name": "Zydus Lifesciences Limited", "hall": "14", "stand": "B2", "purpose": "карведилол кмп - ціна/клієнт", "source": "лист 24.07.2026 + офіційний список + таблиця «Встречи»"},
+    {"key": "5nplus.com", "name": "5N Plus Lübeck GmbH", "hall": "4", "stand": "H117", "purpose": "вісмути - ціни"},
+    {"key": "ahaint.com", "name": "A.H.A. International Co., Ltd.", "hall": "1", "stand": "H20", "purpose": "наші ветеринарні позиції"},
+    {"key": "aartidrugs.com", "name": "Aarti Drugs Ltd", "hall": "2", "stand": "F16", "purpose": "диклофенак, німесулід"},
+    {"key": "akritipharma.com", "name": "Akriti Pharmaceuticals Pvt. Ltd.", "hall": "16", "stand": "K58", "purpose": ""},
+    {"key": "amilifesciences.com", "name": "Ami LifeSciences Pvt Ltd", "hall": "2", "stand": "F2", "purpose": "бефентрин"},
+    {"key": "amoliindia.com", "name": "Amoli Organics", "hall": "5", "stand": "D105", "purpose": "диклофенак"},
+    {"key": "btp-pharm.com", "name": "BTP Pharmaceutical Co.,Limited", "hall": "2", "stand": "K71", "purpose": "капсули"},
+    {"key": "corelpharmachem.com", "name": "Corel Pharma Chem", "hall": "1", "stand": "B50", "purpose": "ексклюзив по акриполу"},
+    {"key": "euroapi.com", "name": "EUROAPI FRANCE", "hall": "3", "stand": "A1", "purpose": "антибіотики"},
+    {"key": "fdcindia.com", "name": "FDC Limited", "hall": "20", "stand": "H2", "purpose": "циннаризин"},
+    {"key": "fleminglabs.com", "name": "Fleming Laboratories Limited", "hall": "2", "stand": "H108", "purpose": "лоперамід"},
+    {"key": "jihengdufei@126.com", "name": "HEBEI JIHENG PHARMACEUTICAL CO LTD", "hall": "3", "stand": "C98", "purpose": "анальгін - покращити умови"},
+    {"key": "biocause.com", "name": "Hubei Biocause Heilen Pharmaceutical Co.,Ltd", "hall": "3", "stand": "J87", "purpose": "ібупрофен"},
+    {"key": "infoark.com.cn", "name": "INFOARK INTERNATIONAL CO.,LTD.", "hall": "4", "stand": "J37", "purpose": "покращити умови"},
+    {"key": "ipca.com", "name": "Ipca Laboratories Limited", "hall": "5", "stand": "F1", "purpose": "алопуринол, метоклопрамід"},
+    {"key": "jairadhesales.com", "name": "JAI RADHE SALES", "hall": "3", "stand": "F88", "purpose": ""},
+    {"key": "prachipharmaceuticals.com", "name": "Prachi Pharmaceuticals Pvt. Ltd", "hall": "2", "stand": "F108", "purpose": "підтримка відносин"},
+    {"key": "xhzy.com", "name": "Shandong Xinhua Pharmaceutical Co. Ltd.", "hall": "4", "stand": "F41", "purpose": "покращити умови"},
+    {"key": "spentose.com", "name": "Swati Spentose Pvt , Ltd", "hall": "7", "stand": "D105", "purpose": "мелоксикам"},
+    {"key": "indukern.cz", "name": "VIDARA", "hall": "4", "stand": "F123", "purpose": "кофеїн"},
+    {"key": "zcpc.net", "name": "ZHEJIANG CHEMSYN PHARM.CO.,LTD", "hall": "4", "stand": "D127", "purpose": "стрептоцид"},
+    {"key": "haisenpharma.com", "name": "Zhejiang Haisen Pharmaceutical Co., Ltd", "hall": "2", "stand": "J66", "purpose": "анальгін"},
+    {"key": "zhejiang-ruibang-laboratories", "name": "ZHEJIANG RUIBANG LABORATORIES", "hall": "4", "stand": "C123", "purpose": "кальцію глюконат"}
+  ],
+  "not_matched": [
+    "ANQIU LU'AN PHARMACEUTICAL CO. LTD.",
+    "Beijing Odyssey Chemicals Co., Ltd.",
+    "Changzhou Yabang- QH Pharmachem Co",
+    "Chongqing Southwest No.2 Pharmaceutical Factory Co., Ltd.",
+    "EMBOCAPS",
+    "Symbiotec Pharmalab Ltd"
+  ],
+  "cold_outreach_only": [
+    {"key": "bajajhealth.com", "name": "Bajaj Healthcare Ltd", "hall": "4", "stand": "C103", "purpose": "цитиколін мікрохім", "note": "писали нам 9 разів, ми жодного разу не відповіли — тому не в основній базі сайту (real dialogue only)"}
+  ],
+  "unconfirmed_by_official_list": [
+    {"key": "sk1932.com", "name": "Eskay Iodine Pvt. Ltd. / Eskay Speciality Chemicals", "hall": "", "stand": "2J18", "note": "у листі від Eskay (14.08.2026) заявлений стенд 2J18, але в наданому офіційному списку експонентів компанія Eskay взагалі не значиться — можливо, змінили плани, або компанія зареєстрована під іншою юридичною назвою. Перевірити окремо."}
+  ]
+}
