@@ -1,6 +1,6 @@
-# Hainan Dingyan / China Collagen
+# Atomax Chemicals
 
-**Домен:** `china-collagen.com`
+**Домен:** `atomaxchem.com`
 **Тип:** Виробник / дистриб'ютор
 **Країна:** China
 **Перший контакт:** 2026-09-09  ·  **Останній:** —
@@ -10,17 +10,17 @@
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Amanda | Sales | amanda@china-collagen.com | — | — | email |
+| Sales Team | Sales | sales02@atomaxchem.com | — | — | email |
 
 
-**Сайт:** www.china-collagen.com
+**Сайт:** www.atomaxchem.com
 
-**Адреса:** Hainan
+**Адреса:** China
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `amanda@china-collagen.com` | 0 | 0 |
+| `sales02@atomaxchem.com` | 0 | 0 |
 
 _Глибина даних: новий контакт з email-потоків purchase3@agroup95.com._

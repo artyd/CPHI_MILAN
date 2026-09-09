@@ -1,8 +1,8 @@
-# Hainan Dingyan / China Collagen
+# Knowde Marketplace
 
-**Домен:** `china-collagen.com`
+**Домен:** `knowde.email`
 **Тип:** Виробник / дистриб'ютор
-**Країна:** China
+**Країна:** USA
 **Перший контакт:** 2026-09-09  ·  **Останній:** —
 **Листування:** 0 від нас → 0 у відповідь, 0 тем
 
@@ -10,17 +10,17 @@
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Amanda | Sales | amanda@china-collagen.com | — | — | email |
+| Concierge | Customer Service | concierge@knowde.email | — | — | email |
 
 
-**Сайт:** www.china-collagen.com
+**Сайт:** www.knowde.email
 
-**Адреса:** Hainan
+**Адреса:** USA
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `amanda@china-collagen.com` | 0 | 0 |
+| `concierge@knowde.email` | 0 | 0 |
 
 _Глибина даних: новий контакт з email-потоків purchase3@agroup95.com._

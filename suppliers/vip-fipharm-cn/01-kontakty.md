@@ -1,6 +1,6 @@
-# Hainan Dingyan / China Collagen
+# FIPHARM FOOD (Subsidiary)
 
-**Домен:** `china-collagen.com`
+**Домен:** `vip.fipharm.cn`
 **Тип:** Виробник / дистриб'ютор
 **Країна:** China
 **Перший контакт:** 2026-09-09  ·  **Останній:** —
@@ -10,17 +10,17 @@
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Amanda | Sales | amanda@china-collagen.com | — | — | email |
+| Support | Sales | fifood@vip.fipharm.cn | — | — | email |
 
 
-**Сайт:** www.china-collagen.com
+**Сайт:** www.vip.fipharm.cn
 
-**Адреса:** Hainan
+**Адреса:** Haikou, Hainan
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `amanda@china-collagen.com` | 0 | 0 |
+| `fifood@vip.fipharm.cn` | 0 | 0 |
 
 _Глибина даних: новий контакт з email-потоків purchase3@agroup95.com._

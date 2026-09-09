@@ -1,8 +1,8 @@
-# Hainan Dingyan / China Collagen
+# MLA INDUSTRIES PVT. LTD.
 
-**Домен:** `china-collagen.com`
+**Домен:** `mlagroup.com`
 **Тип:** Виробник / дистриб'ютор
-**Країна:** China
+**Країна:** India
 **Перший контакт:** 2026-09-09  ·  **Останній:** —
 **Листування:** 0 від нас → 0 у відповідь, 0 тем
 
@@ -10,17 +10,17 @@
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Amanda | Sales | amanda@china-collagen.com | — | — | email |
+| Nitesh Nigam | Business Head (Pharma Division) | mktg9@mlagroup.com | — | — | email |
 
 
-**Сайт:** www.china-collagen.com
+**Сайт:** www.mlagroup.com
 
-**Адреса:** Hainan
+**Адреса:** Kanpur, U.P., India
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `amanda@china-collagen.com` | 0 | 0 |
+| `mktg9@mlagroup.com` | 0 | 0 |
 
 _Глибина даних: новий контакт з email-потоків purchase3@agroup95.com._

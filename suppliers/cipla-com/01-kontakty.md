@@ -1,8 +1,8 @@
-# Hainan Dingyan / China Collagen
+# CIPLA Ltd.
 
-**Домен:** `china-collagen.com`
+**Домен:** `cipla.com`
 **Тип:** Виробник / дистриб'ютор
-**Країна:** China
+**Країна:** India
 **Перший контакт:** 2026-09-09  ·  **Останній:** —
 **Листування:** 0 від нас → 0 у відповідь, 0 тем
 
@@ -10,17 +10,17 @@
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Amanda | Sales | amanda@china-collagen.com | — | — | email |
+| Shashank Saxena | Sales/Export | Shashank.Saxena@cipla.com | — | — | email |
 
 
-**Сайт:** www.china-collagen.com
+**Сайт:** www.cipla.com
 
-**Адреса:** Hainan
+**Адреса:** Mumbai, India
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `amanda@china-collagen.com` | 0 | 0 |
+| `Shashank.Saxena@cipla.com` | 0 | 0 |
 
 _Глибина даних: новий контакт з email-потоків purchase3@agroup95.com._

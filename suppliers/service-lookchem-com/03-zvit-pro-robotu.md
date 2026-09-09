@@ -1,4 +1,4 @@
-# Hainan Dingyan / China Collagen — звіт про роботу
+# Viablife (via Lookchem) — звіт про роботу
 
 **Статус:** На розгляді
 **Пріоритет зустрічі на CPHI:** —
@@ -13,7 +13,7 @@
 ## Основна інформація
 
 - **Країна:** China
-- **Основний продукт/послуга:** Bovine collagen peptides, pharmaceutical ingredients
+- **Основний продукт/послуга:** Ceramides, Niacinamide - cosmetic and pharmaceutical raw materials
 - **Тип компанії:** Виробник/дистриб'ютор
 - **Джерело контакту:** Email-потік на purchase3@agroup95.com
 
@@ -21,6 +21,6 @@
 
 | Тема | Продукт | Результат |
 |---|---|---|
-| Вхідна пропозиція | Bovine collagen peptides, pharmaceutical ingredients | incoming |
+| Вхідна пропозиція | Ceramides, Niacinamide - cosmetic and pharmaceutical raw materials | incoming |
 
 _Дані будуть оновлені в процесі переписки._

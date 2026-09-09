@@ -1,4 +1,4 @@
-# Hainan Dingyan / China Collagen — звіт про роботу
+# PoliPharma — звіт про роботу
 
 **Статус:** На розгляді
 **Пріоритет зустрічі на CPHI:** —
@@ -12,8 +12,8 @@
 
 ## Основна інформація
 
-- **Країна:** China
-- **Основний продукт/послуга:** Bovine collagen peptides, pharmaceutical ingredients
+- **Країна:** Russia
+- **Основний продукт/послуга:** Feed ingredients and raw materials
 - **Тип компанії:** Виробник/дистриб'ютор
 - **Джерело контакту:** Email-потік на purchase3@agroup95.com
 
@@ -21,6 +21,6 @@
 
 | Тема | Продукт | Результат |
 |---|---|---|
-| Вхідна пропозиція | Bovine collagen peptides, pharmaceutical ingredients | incoming |
+| Вхідна пропозиція | Feed ingredients and raw materials | incoming |
 
 _Дані будуть оновлені в процесі переписки._

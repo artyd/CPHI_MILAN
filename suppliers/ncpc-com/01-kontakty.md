@@ -1,6 +1,6 @@
-# Hainan Dingyan / China Collagen
+# National Chemical Pharma (NCPC)
 
-**Домен:** `china-collagen.com`
+**Домен:** `ncpc.com`
 **Тип:** Виробник / дистриб'ютор
 **Країна:** China
 **Перший контакт:** 2026-09-09  ·  **Останній:** —
@@ -10,17 +10,17 @@
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Amanda | Sales | amanda@china-collagen.com | — | — | email |
+| Linda Wang | Regulatory Affairs | ra01@ncpc.com | — | — | email |
 
 
-**Сайт:** www.china-collagen.com
+**Сайт:** www.ncpc.com
 
-**Адреса:** Hainan
+**Адреса:** Shijiazhuang, China
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `amanda@china-collagen.com` | 0 | 0 |
+| `ra01@ncpc.com` | 0 | 0 |
 
 _Глибина даних: новий контакт з email-потоків purchase3@agroup95.com._

@@ -1,6 +1,6 @@
-# Hainan Dingyan / China Collagen
+# R&D Pharma
 
-**Домен:** `china-collagen.com`
+**Домен:** `rdpharma.cn`
 **Тип:** Виробник / дистриб'ютор
 **Країна:** China
 **Перший контакт:** 2026-09-09  ·  **Останній:** —
@@ -10,17 +10,17 @@
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Amanda | Sales | amanda@china-collagen.com | — | — | email |
+| Lynne | Sales | lynne@rdpharma.cn | — | — | email |
 
 
-**Сайт:** www.china-collagen.com
+**Сайт:** www.rdpharma.cn
 
-**Адреса:** Hainan
+**Адреса:** China
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `amanda@china-collagen.com` | 0 | 0 |
+| `lynne@rdpharma.cn` | 0 | 0 |
 
 _Глибина даних: новий контакт з email-потоків purchase3@agroup95.com._

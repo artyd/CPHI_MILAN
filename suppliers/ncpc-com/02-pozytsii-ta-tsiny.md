@@ -1,4 +1,4 @@
-# Hainan Dingyan / China Collagen — позиції та ціни
+# National Chemical Pharma (NCPC) — позиції та ціни
 
 Витягнуто **0** котирувань по **0** позиціях.
 

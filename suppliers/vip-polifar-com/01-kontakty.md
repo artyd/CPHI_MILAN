@@ -1,8 +1,8 @@
-# Hainan Dingyan / China Collagen
+# PoliPharma
 
-**Домен:** `china-collagen.com`
+**Домен:** `vip.polifar.com`
 **Тип:** Виробник / дистриб'ютор
-**Країна:** China
+**Країна:** Russia
 **Перший контакт:** 2026-09-09  ·  **Останній:** —
 **Листування:** 0 від нас → 0 у відповідь, 0 тем
 
@@ -10,17 +10,17 @@
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Amanda | Sales | amanda@china-collagen.com | — | — | email |
+| Mila | Sales | mila@vip.polifar.com | — | — | email |
 
 
-**Сайт:** www.china-collagen.com
+**Сайт:** www.vip.polifar.com
 
-**Адреса:** Hainan
+**Адреса:** Russia
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `amanda@china-collagen.com` | 0 | 0 |
+| `mila@vip.polifar.com` | 0 | 0 |
 
 _Глибина даних: новий контакт з email-потоків purchase3@agroup95.com._

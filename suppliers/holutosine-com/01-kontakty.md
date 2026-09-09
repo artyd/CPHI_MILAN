@@ -1,8 +1,8 @@
-# Hainan Dingyan / China Collagen
+# Holutosine
 
-**Домен:** `china-collagen.com`
+**Домен:** `holutosine.com`
 **Тип:** Виробник / дистриб'ютор
-**Країна:** China
+**Країна:** Nigeria
 **Перший контакт:** 2026-09-09  ·  **Останній:** —
 **Листування:** 0 від нас → 0 у відповідь, 0 тем
 
@@ -10,17 +10,17 @@
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Amanda | Sales | amanda@china-collagen.com | — | — | email |
+| Sherifah Oluwatosin | Info desk | info@holutosine.com | — | — | email |
 
 
-**Сайт:** www.china-collagen.com
+**Сайт:** www.holutosine.com
 
-**Адреса:** Hainan
+**Адреса:** Nigeria
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `amanda@china-collagen.com` | 0 | 0 |
+| `info@holutosine.com` | 0 | 0 |
 
 _Глибина даних: новий контакт з email-потоків purchase3@agroup95.com._

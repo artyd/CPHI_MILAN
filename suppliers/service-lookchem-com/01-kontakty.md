@@ -1,6 +1,6 @@
-# Hainan Dingyan / China Collagen
+# Viablife (via Lookchem)
 
-**Домен:** `china-collagen.com`
+**Домен:** `service.lookchem.com`
 **Тип:** Виробник / дистриб'ютор
 **Країна:** China
 **Перший контакт:** 2026-09-09  ·  **Останній:** —
@@ -10,17 +10,17 @@
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Amanda | Sales | amanda@china-collagen.com | — | — | email |
+| Support | Customer Service | support@service.lookchem.com | — | — | email |
 
 
-**Сайт:** www.china-collagen.com
+**Сайт:** www.service.lookchem.com
 
-**Адреса:** Hainan
+**Адреса:** China
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `amanda@china-collagen.com` | 0 | 0 |
+| `support@service.lookchem.com` | 0 | 0 |
 
 _Глибина даних: новий контакт з email-потоків purchase3@agroup95.com._
