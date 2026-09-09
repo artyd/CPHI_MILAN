@@ -1,6 +1,6 @@
 # WUXI ACCOBIO BIOTECH INC. — позиції та ціни
 
-Витягнуто **5** котирувань по **3** позиціях.
+Витягнуто **6** котирувань по **4** позиціях.
 
 ## L-Glutathione Reduced 98%
 
@@ -57,3 +57,18 @@ _2 котирувань, 2025-11-20 → 2025-11-20: ціна зросла на 1
 | 2026-01-05 | EUR 29.8/kg | FCA Shanghai | — | 50 kg | — | [↗](https://mail.google.com/mail/u/0/#all/19b8c14ffb709ae3) |
 
 Примітки: запит був на FOB Shanghai, відповідь дана на FCA Shanghai
+
+## L-Arginine Hydrochloride (Pharmaceutical Grade) · CAS 1119-34-2
+
+| Дата | Ціна | Базис | Специфікація | MOQ | Оплата | Лист |
+|---|---|---|---|---|---|---|
+| 2026-09-03 | TBA | CIP Tashkent | Pharmaceutical | TBA | TBA | [↗](https://mail.google.com/mail/u/0/#inbox/1a0669a7b4dd9d7d) |
+| 2026-09-04 | TBA | CIP Tashkent | Pharmaceutical | TBA | TBA | [↗](https://mail.google.com/mail/u/0/#inbox/1a0669a7b4dd9d7d) |
+
+Примітки: 
+- Joey Wang обговорював specificities перед цінозпропозицією
+- Інжинер визначить найкращу пропозицію на основі вимог
+- Детальне котирування надіслано 2026-09-04 як attachment
+- Запросили COA для pharmaceutical grade
+- Грейд: Pharmaceutical для інтегрованого чи орального використання
+- Доставка: CIP Tashkent by air (потенційно land transportation також можливий)
