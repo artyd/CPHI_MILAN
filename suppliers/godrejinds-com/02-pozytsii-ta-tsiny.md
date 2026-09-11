@@ -45,3 +45,15 @@ _2 котирувань, 2024-10-22 → 2024-11-11: ціна зросла на 5
 | 2024-11-11 | USD 2285/MT | FOB Nava Sheva | — | — | — | [↗](https://mail.google.com/mail/u/0/#all/1931a4f86cd5b95f) |
 
 Примітки: вказано як індикативна ціна, остаточна пропозиція буде після нашого фідбеку
+
+---
+
+## Нові дані (2026-09-11)
+
+### Ginol 1618 TA / 50:50
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-02-16 | USD 1850/MT | FOB Nhava Sheva | 1x40'FCL (26MT) | [↗](https://mail.google.com/mail/u/0/#all/19c660e7a530658a) |
+| 2026-03-26 | USD 2300/MT | FOB Nhava Sheva | 1x40'FCL (26MT) or 1x20'FCL (14.5MT) | [↗](https://mail.google.com/mail/u/0/#all/19c660e7a530658a) |
+| 2026-06-03 | USD 2200/MT | FOB Nhava Sheva | 1x40'FCL (26MT) or 1x20'FCL (14.5MT) | [↗](https://mail.google.com/mail/u/0/#all/19c660e7a530658a) |

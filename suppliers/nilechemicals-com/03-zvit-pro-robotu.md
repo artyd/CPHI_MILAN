@@ -40,3 +40,13 @@
 - **Brilliant Green** — ми обіцяли 'перевірити і повернутися' по Brilliant Green (19.45 USD/kg CIP air Warsaw), відповіді з нашого боку в межах треда більше нема; Nilesh двічі нагадував (04.05, 08.06)  [↗](https://mail.google.com/mail/u/0/#all/187e122cd0b2caaa)
 
 _Днів до CPHI: 57. Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-09-09**, усього тем: 6, листів від нас/них: 48/44.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [FW: ZL4785/25// CHLORНEXIDINE GLUCONAТЕ SOLUTION// FOB NHAVA SHEVA - GDANSK // Consignee: PRIME FORCE UK BUSINESS LIMITED//  BOM/22102025/RB/RR/FE/179 //SB 7910338 DT 16.12.2025](https://mail.google.com/mail/u/0/#all/19bd9fb00eefcbf3) | Chlorhexidine Gluconate Solution, Povidone Iodine, Denatonium Benzoate | ongoing | Очікуємо нашого рішення по ціні 3.25 USD/кг FOB Nhava Sheva на Chlorhexidine Gluconate Solution (1800кг) від Nile Chemicals. |

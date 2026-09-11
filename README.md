@@ -12,14 +12,14 @@
 ├─ index.html                      # сайт — уся база вшита всередину, працює автономно
 ├─ .nojekyll                       # вимикає Jekyll на GitHub Pages
 ├─ data/                           # вихідна база даних (JSONL/JSON)
-│  ├─ companies.jsonl              # компанії (1710)
-│  ├─ contacts.jsonl               # контакти (1685)
-│  ├─ profiles.jsonl               # профілі (1091)
-│  ├─ quotes.jsonl                 # позиції та ціни (9955)
-│  ├─ ranking.jsonl                # рейтинг постачальників (1162)
-│  ├─ thread_states.jsonl          # стани переписок (5306)
+│  ├─ companies.jsonl              # компанії (1768)
+│  ├─ contacts.jsonl               # контакти (1842)
+│  ├─ profiles.jsonl               # профілі (1160)
+│  ├─ quotes.jsonl                 # позиції та ціни (10278)
+│  ├─ ranking.jsonl                # рейтинг постачальників (1231)
+│  ├─ thread_states.jsonl          # стани переписок (5582)
 │  └─ cphi-milan-2026-exhibitors.json
-├─ suppliers/                      # 1162 постачальники, по 3 md на кожного (3486 файлів)
+├─ suppliers/                      # 1231 постачальник, по 3 md на кожного (3852 файли)
 │  └─ <slug>/
 │     ├─ 01-kontakty.md
 │     ├─ 02-pozytsii-ta-tsiny.md

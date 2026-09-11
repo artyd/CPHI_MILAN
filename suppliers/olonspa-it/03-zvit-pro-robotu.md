@@ -37,3 +37,13 @@
 - **Dimetindene Maleate (для клієнта Lubnyfarm)** — 24.04 надали дані консигнатора/AWB (Boxline UCL Poland) — чекаємо proforma invoice та відвантаження від Olon  [↗](https://mail.google.com/mail/u/0/#all/195fc01c50f6fe15)
 
 _Днів до CPHI: 57. Глибина даних: повна (3 з 3 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-08-22**, усього тем: 4, листів від нас/них: 17/11.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Inquiry for Loperamide HCL](https://mail.google.com/mail/u/0/#all/19fce851cd3f8f42) | Loperamide HCL | ongoing | Очікуємо нашого рішення серед трьох пропозицій на Лоперамід HCL (Vasudha $360/кг, Lake Chemicals $675/кг, Olon €1000/кг) для клієнта Lubnypharm. |

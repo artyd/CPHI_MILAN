@@ -19,3 +19,19 @@
 | 2023-06-05 | USD 10/kg | CIF Hamburg | Animal grade, EP specification | 10MT | — | [↗](https://mail.google.com/mail/u/0/#all/1888998e4e06a970) |
 
 Примітки: CIF as FCL
+
+---
+
+## Нові дані (2026-09-11)
+
+### Sulfanilamide
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-05-07 | USD 10/kg | FOB Qingdao | 3MT | [↗](https://mail.google.com/mail/u/0/#all/1971ff2af45ba0d0) |
+| 2026-05-07 | USD 9.9/kg | FOB Shanghai | 3MT | [↗](https://mail.google.com/mail/u/0/#all/1971ff2af45ba0d0) |
+| 2026-09-01 | USD 10.1/kg | FOB Shanghai | 2MT | [↗](https://mail.google.com/mail/u/0/#all/1971ff2af45ba0d0) |
+| 2026-09-01 | USD 10/kg | FOB Shanghai | 5MT | [↗](https://mail.google.com/mail/u/0/#all/1971ff2af45ba0d0) |
+| 2026-09-01 | USD 10/kg | FOB Shanghai | 2MT | [↗](https://mail.google.com/mail/u/0/#all/1971ff2af45ba0d0) |
+| 2026-09-01 | USD 9.85/kg | FOB Shanghai | 5MT | [↗](https://mail.google.com/mail/u/0/#all/1971ff2af45ba0d0) |
+| 2026-09-03 | USD 10/kg | FOB Qingdao | 1MT | [↗](https://mail.google.com/mail/u/0/#all/1971ff2af45ba0d0) |

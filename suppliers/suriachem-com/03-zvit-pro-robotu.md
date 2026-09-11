@@ -72,3 +72,15 @@
 - **TPSA (Stearic Acid), Oleic Acid, IPM, MCT, CSA 3070, CSA 5050, cocamidopropyl betaine 45%** — на 22.04.2025 ми знову попросили оновити ціни і досі не підтвердили кількості CSA 3070 та CSA 5050 (чекаємо відповіді власного відділу продажів щодо cocamidopropyl betaine 45%); Kelly пропонувала зафіксувати принаймні TPSA, MCT та IPM до закінчення валідності 18.04.2025 — відповіді від нас немає; Myristyl Alcohol 98% (CAS 112-72-1) Suriachem запропонувати не може  [↗](https://mail.google.com/mail/u/0/#all/1926b604d067bad9)
 
 _Днів до CPHI: 57. Глибина даних: повна (20 з 20 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 3 нових тем листування. Останній контакт тепер **2026-09-10**, усього тем: 23, листів від нас/них: 164/55.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [RE: PI-260813946 & SC/19338 - 18mt TPSA 1842 beads - 4.625mt Oleic acid - 1mt lauric acid - fob port klang - loose - sh sept- oct 2026.](https://mail.google.com/mail/u/0/#all/1a03192309f178ba) | TPSA 1842 beads, Oleic acid, Lauric acid | ongoing | Очікуємо надання деталей агента (forwarder) для відвантаження партії TPSA/Oleic acid/Lauric acid (готовність орієнтовно 20.09.2026). |
+| [RE: General cargo](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) | General cargo (TPSA, Lauric acid, Oleic acid, CSA 3070/5050, IPM, IPP, MCT, CAPB 30%, GMS SE40, GMS90) | ongoing | Очікуємо оновлений SDS з даними NOAEL для Isopropyl Palmitate (для оцінки безпеки косметичного продукту). |
+| [Quality Complaint - Isopropyl Myristate, Batch M5556A](https://mail.google.com/mail/u/0/#all/1a03d8a6b1f0bc26) | Isopropyl Myristate | ongoing | Очікуємо результат розслідування якості (можлива іржа/забруднення) в барабані Isopropyl Myristate, партія M5556A, на основі вже наданих фото/відео. |

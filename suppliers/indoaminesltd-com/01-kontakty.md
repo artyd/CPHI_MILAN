@@ -23,3 +23,11 @@
 | `milind@indoaminesltd.com` | 2 | 2 |
 
 _Глибина даних: повна (1 з 1 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Rakshita Poojari | Export/Sales | rakshitap@indoaminesltd.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19f95c2471fb8fe7) |

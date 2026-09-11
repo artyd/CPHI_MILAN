@@ -42,3 +42,14 @@
 - **Soybean Oil Hydrogenated / CBD oil / Partially Hydrogenated Soybean Oil** — не отримали відповіді по CBD oil (олія та діюча речовина); partially hydrogenated soybean oil відсутній у постачальника  [↗](https://mail.google.com/mail/u/0/#all/19223dddcbff961c)
 
 _Днів до CPHI: 57. Глибина даних: повна (6 з 6 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 2 нових тем листування. Останній контакт тепер **2026-09-08**, усього тем: 8, листів від нас/них: 28/26.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Cottonseed oil](https://mail.google.com/mail/u/0/#all/19f1ce87fdef0130) | Cottonseed oil, Propylene Glycol | ongoing | Очікуємо від Mosselman нижчу ціну на пропіленгліколь (мета: нижче поточної на 2 EUR/кг за вимогою клієнта). |
+| [Request possition](https://mail.google.com/mail/u/0/#all/1a07b6aff0fa29b1) | PEG 40, Conditioner base, Glyceryl cocoate, Polysorbate 20 | ongoing | Очікуємо уточнення від Mosselman: чи PEG 2000 задовольняє запит на PEG 40, і немає пропозиції по Conditioner base та Glyceryl cocoate. |

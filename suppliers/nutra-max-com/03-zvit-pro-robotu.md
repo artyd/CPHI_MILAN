@@ -47,3 +47,13 @@
 - **Calendula/Centella Asiatica/Aloe/Ginkgo biloba extracts** — запит на олійні екстракти (Calendula oil, Centella oil, Aloe fat-soluble) від 24.05.2024 продовжено в треді 18fb901068dfe644  [↗](https://mail.google.com/mail/u/0/#all/18f9ba60e64dce23)
 
 _Днів до CPHI: 57. Глибина даних: повна (12 з 12 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-09-01**, усього тем: 13, листів від нас/них: 13/16.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Hunan Nutramax : Botanical Extract available for your products](https://mail.google.com/mail/u/0/#all/1a05ad47b580af0d) | Botanical Extracts, Sweeteners, Bioactive Components (marketing) | info | Пропозиція асортименту рослинних екстрактів/підсолоджувачів від Hunan Nutramax — відповіді з нашого боку ще не було. |

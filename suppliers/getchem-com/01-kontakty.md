@@ -31,3 +31,11 @@
 | `mikowang@getchem.com` | 1 | 0 |
 
 _Глибина даних: повна (12 з 12 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Kyra Xu | Marketing Representative | kyraxu@getchem.com | +8615853122893 | +8615853122893 | [лист](https://mail.google.com/mail/u/0/#all/1a0220be1652fa6b) |

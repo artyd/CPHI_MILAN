@@ -89,3 +89,14 @@
 - **Chinese New Year order deadline** — розсилка Tina Wang про дедлайн підтвердження замовлення 20.11.2023 перед китайським Новим роком; сам виробничий графік — на картинці у вкладенні; ми не відповідали  [↗](https://mail.google.com/mail/u/0/#all/18b04ac88177d30d)
 
 _Днів до CPHI: 57. Глибина даних: повна (32 з 32 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 2 нових тем листування. Останній контакт тепер **2026-09-10**, усього тем: 34, листів від нас/них: 10/37.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Elevate Your Guest Experience with Custom Bath Bombs \| iHotel](https://mail.google.com/mail/u/0/#all/1a01f10674b61e07) | — | info | — |
+| [Go Green with BIO SOFT SLIPPER –  Biodegradable](https://mail.google.com/mail/u/0/#all/1a08adf53c90dcd8) | — | info | — |

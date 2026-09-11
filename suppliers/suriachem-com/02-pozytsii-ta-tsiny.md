@@ -561,3 +561,67 @@ _2 котирувань, 2025-09-23 → 2026-01-13: ціна впала на 17%
 
 - 2025-12-31 — ціна лише у вкладенні: PI 251213003 Prime Force UK - 6 items - loose - FOB - pyt 3070.pdf та SC18989 Prime UK - 6 items - pyt3070 - FOB - no pallet.pdf ([лист](https://mail.google.com/mail/u/0/#all/19b7343dea7f95ba))
 - 2026-01-14 — ціна лише у вкладенні: PI 251213003 ... (revised 14 Jan 2026).pdf та SC18989 ... (revised 14 Jan 2026).pdf ([лист](https://mail.google.com/mail/u/0/#all/19bba434deb1eb80))
+
+---
+
+## Нові дані (2026-09-11)
+
+### GMS 90
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-19 | USD 1800/MT | FOB Port Klang | — | [↗](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) |
+
+### GMS SE 40
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-19 | USD 1720/MT | FOB Port Klang | — | [↗](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) |
+
+### GMS SE 40 & GMS 90
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-09 | — | FOB Port Klang | — | [↗](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) |
+
+### IPM
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-28 | USD 4460/MT | FOB Port Klang | — | [↗](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) |
+
+### IPM (Isopropyl Myristate)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-19 | USD 4400/MT | FOB Port Klang | — | [↗](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) |
+
+### IPP
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-28 | USD 2695/MT | FOB Port Klang | — | [↗](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) |
+
+### IPP (Isopropyl Palmitate)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-19 | USD 2625/MT | FOB Port Klang | — | [↗](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) |
+
+### Lauric acid 99% Flakes
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-19 | USD 2235/MT | FOB Port Klang | — | [↗](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) |
+
+### Oleic acid 75%min
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-19 | USD 1680/MT | FOB Port Klang | — | [↗](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) |
+
+### TPSA 1837 beads
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-19 | USD 1450/MT | FOB Port Klang | — | [↗](https://mail.google.com/mail/u/0/#all/1a01425b58e2ad10) |

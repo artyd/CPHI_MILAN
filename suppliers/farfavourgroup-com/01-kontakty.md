@@ -26,3 +26,11 @@
 | `yxia@farfavourgroup.com` | 0 | 0 |
 
 _Глибина даних: повна (9 з 9 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Kelly Wang | Sales Manager | kelly.wang@farfavourgroup.com | +86 13635608563 | — | [лист](https://mail.google.com/mail/u/0/#all/1a07a5aff35bb553) |

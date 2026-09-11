@@ -75,3 +75,14 @@ _2 котирувань, 2026-05-20 → 2026-06-22: ціна не змінила
 | 2026-06-12 | USD 112/kg | CIP Warsaw by air | injection use | 75 kg | TT in advance | [↗](https://mail.google.com/mail/u/0/#all/19ebb475e8eb0996) |
 
 Примітки: typical COA у вкладенні
+
+---
+
+## Нові дані (2026-09-11)
+
+### Chloramphenicol EP9
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-22 | USD 65/kg | FOB Chinese port | 1000kg | [↗](https://mail.google.com/mail/u/0/#all/19f88b9e065697d6) |
+| 2026-09-04 | USD 65/kg | FOB Chinese port | 200-500kg | [↗](https://mail.google.com/mail/u/0/#all/19f88b9e065697d6) |

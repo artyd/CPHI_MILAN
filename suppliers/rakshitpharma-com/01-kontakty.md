@@ -26,3 +26,11 @@
 | `exports@rakshitpharma.com` | 1 | 4 |
 
 _Глибина даних: повна (2 з 2 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Bhanu | AGM-Marketing | bd1@rakshitpharma.com | 91 80081 45670 | — | [лист](https://mail.google.com/mail/u/0/#all/19f74071027da3b1) |

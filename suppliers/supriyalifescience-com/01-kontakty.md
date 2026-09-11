@@ -1,28 +1,28 @@
-# Supriya Lifescience Ltd
+# Supriya LifeScience Ltd.
 
 **Домен:** `supriyalifescience.com`
-**Тип:** Виробник/дистриб'ютор
+**Тип:** Завод
 **Країна:** India
-**Перший контакт:** 2024-09-12  ·  **Останній:** 2026-08-31
-**Листування:** 6 від нас → 4 у відповідь, 3 тем
+**Перший контакт:** 2026-02-10  ·  **Останній:** 2026-09-09 (2 дн. тому)
+**Листування:** 4 від нас → 3 у відповідь, 1 тем
 
 ## Люди
 
 | Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
 |---|---|---|---|---|---|
-| Renuka Kapare | Sales | renuka.kapare@supriyalifescience.com | — | — | email |
-| Susheela | Sales | susheela@supriyalifescience.com | — | — | email |
-
+| Yogita Shivalkar | — | yogita.shivalkar@supriyalifescience.com | 022 40332730 | — | [лист](https://mail.google.com/mail/u/0/#all/19c46e0fd9bb9285) |
+| Susheela | Sr. Manager – Sales & Marketing | susheela@supriyalifescience.com | +91 22 40332718 | — | [лист](https://mail.google.com/mail/u/0/#all/19c46e0fd9bb9285) |
 
 **Сайт:** www.supriyalifescience.com
 
-**Адреса:** India
+**Адреса:** 207/208, Udyog Bhavan, Sonawala Road, Goregaon (East), Mumbai – 400 063, India; 207/208, Udyog Bhavan, Sonawala Road, Goregaon (East), Mumbai – 400063, Maharashtra, India
 
 ## Адреси в листуванні
 
 | Адреса | Від них | Від нас |
 |---|---|---|
-| `renuka.kapare@supriyalifescience.com` | 4 | 6 |
-| `susheela@supriyalifescience.com` | 0 | 0 |
-
-_Джерело: email-потоки purchase3@agroup95.com. Renuka Kapare веде більшість листування. Триває обговорення трьох API-продуктів, конкретних цін ще не отримано._
+| `purchase@agroup95.com` | 0 | 3 |
+| `susheela@supriyalifescience.com` | 2 | 0 |
+| `yogita.shivalkar@supriyalifescience.com` | 1 | 0 |
+| `cilogist4@gmail.com` | 0 | 1 |
+| `purchase@apteka95gc.com` | 0 | 0 |

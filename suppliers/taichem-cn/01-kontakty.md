@@ -24,3 +24,11 @@
 | `vet@taichem.cn` | 0 | 3 |
 
 _Глибина даних: повна (188 з 188 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Catherine | Sales | sales@taichem.cn | — | — | [лист](https://mail.google.com/mail/u/0/#all/19a2cdbc2ccc606d) |

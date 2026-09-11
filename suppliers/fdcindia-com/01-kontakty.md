@@ -22,3 +22,13 @@
 | `nishant.meshram@fdcindia.com` | 0 | 1 |
 
 _Глибина даних: повна (1 з 1 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Vinod Aair | Export - APIs | vinod@fdcindia.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+| Nithila JP | Sales and BD, EU Region | bd.eu@fleminglabs.com | +91 9790719082 | — | [лист](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+| Sharath Nallanagari | Assistant Manager - Marketing | bd@rakshitpharma.com | +91 8977868427 | — | [лист](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |

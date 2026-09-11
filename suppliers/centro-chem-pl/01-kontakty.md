@@ -29,3 +29,12 @@
 | `aliaksei@centro-chem.pl` | 0 | 2 |
 
 _Глибина даних: повна (12 з 12 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Anna Jarocka | Specjalista ds. Zakupu i Sprzedaży | anna@centro-chem.pl | +48 603 353 002 | — | [лист](https://mail.google.com/mail/u/0/#all/1a03e2c76a5f6e10) |
+| Karolina Gieroba-Jendrych | — | karolina.gieroba@centro-chem.pl | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a03e2c76a5f6e10) |

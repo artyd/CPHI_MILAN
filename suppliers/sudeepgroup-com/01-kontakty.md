@@ -33,3 +33,13 @@
 | `marketing@sudeepgroup.com` | 0 | 1 |
 
 _Глибина даних: повна (6 з 6 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Lakhan Rao | Exim | exim@sudeepgroup.com | +91 63579 08106 | — | [лист](https://mail.google.com/mail/u/0/#all/1a089e58f3177a95) |
+| Karyna Subota | Freight forwarder / logistics agent | cilogist1@gmail.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a07b9f3855b258d) |
+| Falguni Patil | Sales, Sudeep Pharma | falguni.patil@sudeepgroup.com | +91 9081066991 | — | [лист](https://mail.google.com/mail/u/0/#all/1a014829ec554d24) |

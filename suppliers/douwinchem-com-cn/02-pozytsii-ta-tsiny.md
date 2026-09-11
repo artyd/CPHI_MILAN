@@ -24,3 +24,18 @@
 </svg>
 
 _2 котирувань, 2026-05-28 → 2026-06-01: ціна впала на 1% (1140 → 1130 USD/MT)_
+
+---
+
+## Нові дані (2026-09-11)
+
+### Adipic Acid
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-05-13 | USD 1240/MT | FOB Shanghai | 20MT/20FCL | [↗](https://mail.google.com/mail/u/0/#all/19e207946ccb0461) |
+| 2026-05-13 | USD 1335/MT | CIF Gdansk | 20MT/20FCL | [↗](https://mail.google.com/mail/u/0/#all/19e207946ccb0461) |
+| 2026-06-08 | USD 1140/MT | FOB Qingdao | 20MT/20FCL | [↗](https://mail.google.com/mail/u/0/#all/19e207946ccb0461) |
+| 2026-06-08 | USD 1120/MT | FOB Qingdao | 10MT/20FCL | [↗](https://mail.google.com/mail/u/0/#all/19e207946ccb0461) |
+| 2026-07-03 | USD 1165/MT | FOB Qingdao | 20MT | [↗](https://mail.google.com/mail/u/0/#all/19e207946ccb0461) |
+| 2026-09-01 | USD 1185/MT | FOB Qingdao | 20MT/20FCL | [↗](https://mail.google.com/mail/u/0/#all/19e207946ccb0461) |

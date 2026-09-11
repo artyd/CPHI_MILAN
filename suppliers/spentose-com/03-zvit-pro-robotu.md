@@ -40,3 +40,13 @@
 - **Meloxicam (CEP documents)** — очікуємо оновлений CEP для Катару та КСА (запит 2023 року)  [↗](https://mail.google.com/mail/u/0/#all/18bd2c818699c9f1)
 
 _Днів до CPHI: 57. Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-09-09**, усього тем: 6, листів від нас/них: 24/21.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Meloxicam for Jordan](https://mail.google.com/mail/u/0/#all/19ac636e046da5e3) | Meloxicam micronized (for Jordanian Pharmaceutical Manufacturing Co. - JPM) | ongoing | CDA підписано і надіслано; очікуємо ціну для 50кг CIP Amman та повторного підписання CPA. |

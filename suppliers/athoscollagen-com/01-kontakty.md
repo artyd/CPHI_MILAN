@@ -25,3 +25,15 @@
 | `satish@athoscollagen.com` | 0 | 2 |
 
 _Глибина даних: повна (2 з 2 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Richa Patel | Head of International Sales | sales@athoscollagen.com | +91 87803 21239 | — | [лист](https://mail.google.com/mail/u/0/#all/1a08156d12002025) |
+| Kirti Kachhadiya | — | Kirti@athoscollagen.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a08156d12002025) |
+| Jugal Lathia | — | jugal@athoscollagen.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a08156d12002025) |
+| Satish Patel | — | Satish@athoscollagen.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a08156d12002025) |
+| Abhishek Singh | — | Abhishek@athoscollagen.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a08156d12002025) |

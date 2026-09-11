@@ -26,3 +26,15 @@
 | `logistics@aartidrugs.com` | 9 | 9 |
 
 _Глибина даних: часткова (33 з 34 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Sree | Logistics | logistics@aartidrugs.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19e4ef58d248880f) |
+| Roshni | Export dept | export@aartidrugs.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19e4ef58d248880f) |
+| Divya | Export dept | export@aartidrugs.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19e4ef58d248880f) |
+| Aditya Gokhale | Logistics | logistics@aartidrugs.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19e4ef58d248880f) |
+| Shweta | Logistics | logistics@aartidrugs.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19e4ef58d248880f) |

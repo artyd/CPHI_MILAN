@@ -33,3 +33,11 @@
 | `monimekhala.dey@scllifesciences.com` | 0 | 5 |
 
 _Глибина даних: часткова (7 з 8 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Satpal Singh | Assistant Manager – Sales & Marketing | satpal.singh@scllifesciences.com | +91 83601-44154 / +91 120 4177204 | — | [лист](https://mail.google.com/mail/u/0/#all/1a07b060f27f2ffe) |

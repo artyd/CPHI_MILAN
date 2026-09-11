@@ -35,3 +35,11 @@
 | `yuetao.wu@tofflon.com` | 0 | 3 |
 
 _Глибина даних: повна (7 з 7 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Roben Wu | Sales Director | roben.wu@tofflon.com | +86 13641914433 | +86 13641914433 | [лист](https://mail.google.com/mail/u/0/#all/19b8d59ad266c4c8) |

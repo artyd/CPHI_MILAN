@@ -41,3 +41,13 @@
 - **Automatic reply: 000042109_Ukraine Spare parts** — отримали лише автовідповідь John Damiral (у відпустці) на лист про запчастини 000042109 Ukraine Spare parts; суть і результат запиту невідомі  [↗](https://mail.google.com/mail/u/0/#all/1924862987094aee)
 
 _Днів до CPHI: 57. Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-09-03**, усього тем: 6, листів від нас/них: 22/9.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Visco Handbook: Practical Guidance for Viscosity Measurement](https://mail.google.com/mail/u/0/#all/1a066b76921ce18b) | — | info | — |

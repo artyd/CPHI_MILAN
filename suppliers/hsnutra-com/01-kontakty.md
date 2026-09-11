@@ -24,3 +24,12 @@
 | `megan.z@hsnutra.com` | 13 | 16 |
 
 _Глибина даних: повна (7 з 7 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Megan Zhang (ZHANG Chenxin) | Business Development | megan.z@hsnutra.com | +86-573-83128035 | — | [лист](https://mail.google.com/mail/u/0/#all/1a08158379948e89) |
+| Carol Z | Sales contact | carol.z@hsnutra.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a08158379948e89) |

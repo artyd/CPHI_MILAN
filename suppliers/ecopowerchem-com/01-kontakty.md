@@ -23,3 +23,11 @@
 | `sales@ecopowerchem.com` | 2 | 15 |
 
 _Глибина даних: повна (4 з 4 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Kenny Lee | Sales | sales08@ecopowerchem.com | +86 13630107393 (WeChat/WhatsApp) | — | [лист](https://mail.google.com/mail/u/0/#all/1a08a22d74682ea7) |

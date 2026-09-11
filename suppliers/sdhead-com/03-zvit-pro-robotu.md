@@ -38,3 +38,15 @@
 - **Film Coating Wincoat WT-NAQ-01018, HPMC Headcel 60HD6** — Annie сказала, що надіслана нами специфікація на Wincoat WT-NAQ-01018 нечитабельна — просить надіслати повторно якіснішу версію; відповіді від нас ще немає  [↗](https://mail.google.com/mail/u/0/#all/19ce7eeeb7b12dac)
 
 _Днів до CPHI: 57. Глибина даних: повна (3 з 3 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 3 нових тем листування. Останній контакт тепер **2026-09-08**, усього тем: 6, листів від нас/них: 15/7.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Hydroxypropyl methylcellulose](https://mail.google.com/mail/u/0/#all/1a047bdfb5469856) | Hydroxypropyl methylcellulose | ongoing | Надіслано початковий запит на Hydroxypropyl methylcellulose 300кг FOB — очікуємо відповідь sales@sdhead.com. |
+| [RE: Hydroxypropylcellulose](https://mail.google.com/mail/u/0/#all/1a066413d5c05901) | Hydroxypropylcellulose (HPC), Hydroxypropyl Methylcellulose (HPMC) | ongoing | Очікуємо відповідь Annie Zhou (Shandong Head) по заміннику HPC (NISSO HPC-SSL) та щодо HPMC 75HD100000/75HD15000. |
+| [RE: Hydroxypropyl methylcellulose](https://mail.google.com/mail/u/0/#all/1a0572785d38a67a) | Hydroxypropyl methylcellulose (HPMC) 75HD10000 | ongoing | Отримано ціну на HPMC 75HD10000 (10 USD/кг FOB Qingdao) — очікуємо рішення щодо замовлення. |

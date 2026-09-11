@@ -23,3 +23,25 @@
 </svg>
 
 _2 котирувань, 2026-04-14 → 2026-04-14: ціна зросла на 3% (2 → 2.07 USD/kg)_
+
+---
+
+## Нові дані (2026-09-11)
+
+### IAL HCO 4098
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-28 | USD 1.94/kg | FOB Nhava Sheva | 1880kg | [↗](https://mail.google.com/mail/u/0/#all/19fd3c4e7cff5cb2) |
+
+### Polysorbate-20
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-04 | USD 1.97/kg | FOB Nhava Sheva | 660kg | [↗](https://mail.google.com/mail/u/0/#all/19f95c2471fb8fe7) |
+
+### Polysorbate-80
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-09 | USD 1.9/kg | FOB Nhava Sheva | 2200kg | [↗](https://mail.google.com/mail/u/0/#all/19f95c2471fb8fe7) |

@@ -33,3 +33,19 @@ _2 котирувань, 2024-03-25 → 2024-03-27: ціна впала на 4% 
 | 2023-02-16 | USD 15.25/kg | FCA | EP, CEP ex Shandong Xinhua | — | advanced payment | [↗](https://mail.google.com/mail/u/0/#all/18659883578ad642) |
 
 Примітки: максимальний доступний обсяг 3400 кг (запит був на 5-10 МТ); склад FCA уточнено в листі 1865e4c74b6410f9 - Rotterdam
+
+---
+
+## Нові дані (2026-09-11)
+
+### Clarythromycin EP (ex Zhejiang Guobang)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-27 | EUR 185/kg | FCA Hamburg | 150kg | [↗](https://mail.google.com/mail/u/0/#all/1a04315faaf19b13) |
+
+### Paracetamol
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-04-29 | EUR 4.95/kg | FCA Hamburg | 5MT | [↗](https://mail.google.com/mail/u/0/#all/19dd48d8a4e0532b) |

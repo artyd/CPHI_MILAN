@@ -25,3 +25,11 @@
 | `smart@sdhead.com` | 0 | 0 |
 
 _Глибина даних: повна (3 з 3 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Annie Zhou (周舒心) | Sales Representative | annie.zhou@sdhead.com | +86-166-7815-8221 | +86-166-7815-8221 | [лист](https://mail.google.com/mail/u/0/#all/1a0572785d38a67a) |

@@ -36,3 +36,12 @@
 | `info@ihtl.cc` | 0 | 2 |
 
 _Глибина даних: повна (32 з 32 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| John | Sales | sales15@ihtl.cc | 0086-156-5103-3250 | — | [лист](https://mail.google.com/mail/u/0/#all/1a08adf53c90dcd8) |
+| John | Sales | sales15@ihtl.cc | 0086-156-5103-3250 | — | [лист](https://mail.google.com/mail/u/0/#all/1a01f10674b61e07) |

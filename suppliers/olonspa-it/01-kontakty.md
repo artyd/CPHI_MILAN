@@ -25,3 +25,13 @@
 | `mzema@olonspa.it` | 0 | 4 |
 
 _Глибина даних: повна (3 з 3 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Elena Re Fraschini | Inside Sales | erefraschini@olonspa.it | +39 335 1652 066 | — | [лист](https://mail.google.com/mail/u/0/#all/19fce851cd3f8f42) |
+| Krishna | Marketing | mkt1@vasudhapharma.com | +91-40-4476 3666 Ext 409 / +91 9390028990 | — | [лист](https://mail.google.com/mail/u/0/#all/19fce851cd3f8f42) |
+| Kartik | Sales | marketing5@lakechemicals.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19fce851cd3f8f42) |

@@ -37,3 +37,13 @@
 - **Cinnarizine** — Rakshit кілька разів питали про зустріч на CPHI Milan 2024 та статус Cinnarizine — відповіді від нас у цьому треді більше немає (останній наш лист 24.07.2024)  [↗](https://mail.google.com/mail/u/0/#all/190021af7492c6ca)
 
 _Днів до CPHI: 57. Глибина даних: повна (2 з 2 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-09-05**, усього тем: 3, листів від нас/них: 29/13.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [RE: Inquiry for Cinnarizine EP - Lybnupharm LTD, Ukraine - CPHI Milan 2026 - Meeting invite](https://mail.google.com/mail/u/0/#all/19f74071027da3b1) | Cinnarizine EP | ongoing | Rakshit Pharma чекає підтвердження зустрічі на CPHI Milan та фідбеку по замовленню Cinnarizine EP 5kg @ USD85/кг CIP air. |

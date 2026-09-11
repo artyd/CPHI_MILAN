@@ -26,3 +26,11 @@
 | `info@valajipharmachem.co.in` | 4 | 5 |
 
 _Глибина даних: повна (3 з 3 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Rakesh Patel | Sales | info@valajipharmachem.co.in | +91 9879536114 | — | [лист](https://mail.google.com/mail/u/0/#all/1a0800834bea1f82) |

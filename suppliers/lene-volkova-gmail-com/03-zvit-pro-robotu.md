@@ -63,3 +63,13 @@
 - **Diclofenac Sodium (Aarti)** — внутрішнє листування — Олена Волкова (відділ якості) підтвердила, що параметри типового СОА Aarti відповідають EP 10, як у Amoli; зовнішнього постачальника в тредi немає  [↗](https://mail.google.com/mail/u/0/#all/1863ae229e7cea8d)
 
 _Днів до CPHI: 57. Глибина даних: часткова (21 з 22 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-09-03**, усього тем: 23, листів від нас/них: 34/20.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [RFQ - Laboratory Equipment Projects for Pharmaceutical Customer](https://mail.google.com/mail/u/0/#all/1a05b8a93c01302b) | Laboratory equipment: Automatic Potentiometric Titrator (TITRA+), Conductivity Meter (P200), Melting Point Analyzer (VM350) | ongoing | Очікуємо технічні уточнення від Labindia (сумісність FDA 21 CFR Part 11, електроди, альтернатива для VM350 з автоматичним визначенням кінцевої точки). |

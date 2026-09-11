@@ -115,3 +115,21 @@ _2 котирувань, 2026-07-28 → 2026-07-28: ціна зросла на 5
 | 2026-06-15 | EUR 2.5/kg | FCA Lublin | — | 2 т (замовлено 3 т, доступно 2 т) | — | [↗](https://mail.google.com/mail/u/0/#all/19ecadbedf6837e3) |
 
 Примітки: третя тонна — за умови погодження ціни/якості/строків, постачальник підтвердить доступність
+
+---
+
+## Нові дані (2026-09-11)
+
+### Cocamidopropyl betaine 30%
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-13 | EUR 1.18/kg | Lublin | 1000kg cubes | [↗](https://mail.google.com/mail/u/0/#all/1a03e2c76a5f6e10) |
+| 2026-08-13 | EUR 1.18/kg | Lublin | 1000kg cubes | [↗](https://mail.google.com/mail/u/0/#all/19fd738fba4d0fae) |
+
+### Oleic acid
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-26 | EUR 3.0/kg | FCA Lublin | 19kg canisters | [↗](https://mail.google.com/mail/u/0/#all/1a03e2c76a5f6e10) |
+| 2026-08-26 | EUR 2.65/kg | FCA Lublin | 900kg cubes | [↗](https://mail.google.com/mail/u/0/#all/1a03e2c76a5f6e10) |

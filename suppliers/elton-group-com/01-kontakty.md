@@ -24,3 +24,11 @@
 | `inna.mitlenko@elton-group.com` | 0 | 3 |
 
 _Глибина даних: повна (1 з 1 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Iryna Babai | Sales Manager | iryna.babai@elton-group.com | +38 044 206 85 72 | — | [лист](https://mail.google.com/mail/u/0/#all/1a056930c8b9dd25) |

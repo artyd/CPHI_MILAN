@@ -107,3 +107,46 @@ _4 котирувань, 2025-03-18 → 2025-03-18: ціна зросла на 7
 | Дата | Ціна | Базис | Специфікація | MOQ | Оплата | Лист |
 |---|---|---|---|---|---|---|
 | 2025-02-17 | EUR 2.9/kg | EXW | variant DR190KMNRB | 5 dr | — | [↗](https://mail.google.com/mail/u/0/#all/19523b538aab1301) |
+
+---
+
+## Нові дані (2026-09-11)
+
+### Cottonseed Oil Refined (DR190K)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-08 | EUR 6.65/kg | EXW | 1mt | [↗](https://mail.google.com/mail/u/0/#all/19f1ce87fdef0130) |
+| 2026-07-08 | EUR 6.0/kg | EXW | 2mt | [↗](https://mail.google.com/mail/u/0/#all/19f1ce87fdef0130) |
+| 2026-07-08 | EUR 5.6/kg | EXW | 4mt | [↗](https://mail.google.com/mail/u/0/#all/19f1ce87fdef0130) |
+
+### PEG 2000
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-08 | EUR 2.02/kg | EXW | 2mt | [↗](https://mail.google.com/mail/u/0/#all/1a07b6aff0fa29b1) |
+
+### Propylene Glycol (IBC)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-28 | EUR 2.59/kg | FCA | 5 IBC | [↗](https://mail.google.com/mail/u/0/#all/19f1ce87fdef0130) |
+| 2026-07-28 | EUR 2.39/kg | FCA | 10 IBC | [↗](https://mail.google.com/mail/u/0/#all/19f1ce87fdef0130) |
+
+### Propylene Glycol (drums DR215KMNCB)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-28 | EUR 2.59/kg | FCA | 23 Dr | [↗](https://mail.google.com/mail/u/0/#all/19f1ce87fdef0130) |
+
+### Propylene Glycol (drums DR215KMRCB)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-28 | EUR 2.39/kg | FCA | 46-47 Dr | [↗](https://mail.google.com/mail/u/0/#all/19f1ce87fdef0130) |
+
+### Sorbitan Monooleate 20 EO EP
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-08 | EUR 3.35/kg | EXW | 5dr | [↗](https://mail.google.com/mail/u/0/#all/1a07b6aff0fa29b1) |

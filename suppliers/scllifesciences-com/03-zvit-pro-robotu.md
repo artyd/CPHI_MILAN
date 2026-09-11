@@ -44,3 +44,15 @@
 - **SCL Lifesciences - Customer Satisfaction Survey** — анкету задоволеності клієнтів так і не заповнили — 31.03 переслали всередині компанії з приміткою 'надо заполнить'  [↗](https://mail.google.com/mail/u/0/#all/19573dc4691d82aa)
 
 _Днів до CPHI: 57. Глибина даних: часткова (7 з 8 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 3 нових тем листування. Останній контакт тепер **2026-09-11**, усього тем: 11, листів від нас/них: 30/17.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Dexketoprofen Trometamol 20 and 100kg for Bayan Medical](https://mail.google.com/mail/u/0/#all/1a05bc25b52c13f3) | Dexketoprofen Trometamol | dead | — |
+| [Meeting Invitation at CPHI Milan 2026 – SCL Lifesciences](https://mail.google.com/mail/u/0/#all/1a023bf356acfcd4) | — | ongoing | Очікуємо підтвердження зустрічі на CPHI Milan 2026 (стенд 4A83) - потрібно відповісти на запрошення. |
+| [Dexketoprofen Trometamol Radiks](https://mail.google.com/mail/u/0/#all/1a07b060f27f2ffe) | Dexketoprofen Trometamol (Batch DKT260010) | info | — |

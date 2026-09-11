@@ -40,3 +40,33 @@ _2 котирувань, 2024-06-12 → 2024-06-12: ціна зросла на 2
 </svg>
 
 _2 котирувань, 2024-06-12 → 2024-06-12: ціна зросла на 21% (62 → 75 USD/kg)_
+
+---
+
+## Нові дані (2026-09-11)
+
+### Cinnarizine
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-02 | USD 74/kg | FOB Nhava Sheva | 5kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+| 2026-07-02 | USD 47/kg | FOB Nhava Sheva | 25kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+| 2026-07-02 | USD 115/kg | CIP Hamburg (air) | 5kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+| 2026-07-02 | USD 58/kg | CIP Hamburg (air) | 25kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+| 2026-07-03 | USD 102/kg | CIP Warsaw (air) | 5kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+| 2026-07-03 | USD 55/kg | CIP Warsaw (air) | 25kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+
+### Cinnarizine EP
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-25 | USD 100/kg | CIP Warsaw (air) | 5kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+
+### Cinnarizine EP/CEP
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-02 | USD 85/kg | CIP Air Hamburg | 5kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+| 2026-07-02 | USD 80/kg | FOB Mumbai (Nhava Sheva) | 5kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+| 2026-07-02 | USD 65/kg | CIP Air Hamburg | 25kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |
+| 2026-07-02 | USD 60/kg | FOB Mumbai (Nhava Sheva) | 25kg | [↗](https://mail.google.com/mail/u/0/#all/19f1f58d2d2e4c39) |

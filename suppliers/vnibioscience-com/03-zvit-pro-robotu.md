@@ -49,3 +49,14 @@
 - **L-Aspartic acid; DL-Aspartic acid** — клієнт відкрив новий запит по L-carnitine (продовжено в треді 190575e854f675f0)  [↗](https://mail.google.com/mail/u/0/#all/1902a7ed140d2219)
 
 _Днів до CPHI: 57. Глибина даних: повна (10 з 10 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 2 нових тем листування. Останній контакт тепер **2026-09-10**, усього тем: 12, листів від нас/них: 38/26.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [RE: RE: RE: RE: RE: RE: RE: RE: RE: New inquiry for Greenshell Mussel Powder](https://mail.google.com/mail/u/0/#all/19ff9e27e3da0199) | Greenshell Mussel Powder | ongoing | Очікуємо від VNI Bioscience підтвердження документів (COA/контракт) та інформації по постачанню Green Mussel Powder; попередня поставка мала зауваження щодо відсутньої печатки. |
+| [RE: Fish collagen (peptides)](https://mail.google.com/mail/u/0/#all/1a089da74c05560e) | Fish collagen (peptides) | ongoing | Очікуємо рішення клієнта щодо ціни 15.0 $/кг FOB Qingdao на риб'ячий колаген (450 кг) від VNI Bioscience. |

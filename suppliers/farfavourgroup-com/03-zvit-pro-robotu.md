@@ -43,3 +43,13 @@
 - **Calendula/Centella Asiatica/Aloe extracts** — Запросили ціни на oil-екстракти (FOB, морський порт, 25кг кожного продукту разом) та деталі пакування/транспортування 27.05 — відповіді ще нема  [↗](https://mail.google.com/mail/u/0/#all/18f9b97bd36bee02)
 
 _Днів до CPHI: 57. Глибина даних: повна (9 з 9 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-09-07**, усього тем: 10, листів від нас/них: 3/12.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Premium Matcha Powder from China – Ideal for Food & Beverage Applications](https://mail.google.com/mail/u/0/#all/1a07a5aff35bb553) | Matcha Powder | ongoing | Очікуємо нашого рішення - чи цікавить порошок маття від FarFavour/Huisong Pharmaceuticals (потрібно відповісти на пропозицію). |

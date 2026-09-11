@@ -25,3 +25,15 @@
 | `boris.lindauer@indukern.cz` | 12 | 8 |
 
 _Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Boris Lindauer | Sales Manager Eastern Europe | boris.lindauer@vidara.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a048728a210f8aa) |
+| Robin Frommenwiler | Logistics/back office | Robin.Frommenwiler@vidara.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a048728a210f8aa) |
+| Dr. Ahmed Diab | Head of Quality Assurance, QP / Regulatory Affairs Manager | ahmed.diab@vidara.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a048728a210f8aa) |
+| Marko Markovic | (cc contact) | marko.markovic@vidara.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a048728a210f8aa) |
+| Markus Pfiffner | Office Administration | markus.pfiffner@vidara.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a00ec42a156c1c1) |

@@ -25,3 +25,13 @@
 | `j.knudsen@biesterfeld.com` | 0 | 1 |
 
 _Глибина даних: повна (2 з 2 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Luca Lontke | Apprentice BiA | L.Lontke@biesterfeld.com | +49 40 32008-782 | — | [лист](https://mail.google.com/mail/u/0/#all/1a04315faaf19b13) |
+| Jonas Bittrich | Product Manager | J.Bittrich@biesterfeld.com | +49 40 32008-382 | — | [лист](https://mail.google.com/mail/u/0/#all/19dd48d8a4e0532b) |
+| Maximilian Busch | Trainee | M.Busch@biesterfeld.com | +49 40 32008-271 | — | [лист](https://mail.google.com/mail/u/0/#all/19dd48d8a4e0532b) |

@@ -2882,3 +2882,97 @@ _2 котирувань, 2025-08-04 → 2025-08-04: ціна зросла на 2
 - 2025-05-07 — ціна лише у вкладенні: Uzbek offer.xlsx ([лист](https://mail.google.com/mail/u/0/#all/196a8ce8963549e2))
 - 2026-06-18 — ціна лише у вкладенні: Quotaiton_singsino 100ml Laminated Tube  Ltd _20260616.pdf (разом із Material Specification ABL-250 12.pdf) ([лист](https://mail.google.com/mail/u/0/#all/19ed87ac434fad7a))
 - 2026-07-07 — ціна лише у вкладенні: Quotaiton_PURA Eco Oral Care_202607.pdf ([лист](https://mail.google.com/mail/u/0/#all/19f3b1b88aff135c))
+
+---
+
+## Нові дані (2026-09-11)
+
+### Candesartan (Zhuhai Rundu)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-28 | USD 510/kg | — | 100kg | [↗](https://mail.google.com/mail/u/0/#all/1a0262db38f84771) |
+
+### Candesartan Cilexetil EP (with microbial count test)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-24 | USD 420/kg | CIP Hamburg (air) | 100kg | [↗](https://mail.google.com/mail/u/0/#all/1a0262db38f84771) |
+
+### Ceftazidime with Sodium Carbonate Sterile
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-09 | USD 240/kg | CIP Warsaw | 190kg (trial) | [↗](https://mail.google.com/mail/u/0/#all/1a0666cdcf8b7fb2) |
+
+### Clarithromycin CEP
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-24 | USD 228/kg | CIP Hamburg (air) | 125kg | [↗](https://mail.google.com/mail/u/0/#all/1994c2c34f86755f) |
+
+### Clarithromycin EP
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2025-09-15 | USD 195/kg | CIP Hamburg | 125kg | [↗](https://mail.google.com/mail/u/0/#all/1994c2c34f86755f) |
+| 2025-09-15 | USD 198/kg | CIP Hamburg (air) | 125kg | [↗](https://mail.google.com/mail/u/0/#all/1994c2c34f86755f) |
+| 2026-03-31 | USD 192/kg | CIP Hamburg (air) | 100kg | [↗](https://mail.google.com/mail/u/0/#all/1994c2c34f86755f) |
+| 2026-08-25 | USD 186/kg | CIP Hamburg (air) | 125kg | [↗](https://mail.google.com/mail/u/0/#all/1994c2c34f86755f) |
+| 2026-08-31 | USD 186/kg | CIP Hamburg (air) | 250kg | [↗](https://mail.google.com/mail/u/0/#all/1994c2c34f86755f) |
+| 2026-09-01 | USD 185/kg | CIP Hamburg (air) | 250kg | [↗](https://mail.google.com/mail/u/0/#all/1994c2c34f86755f) |
+| 2026-08-24 | USD 215/kg | CIP Hamburg (air) | 125kg | [↗](https://mail.google.com/mail/u/0/#all/1a0262db38f84771) |
+
+### Clarithromycin EP (with micro tests)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-25 | USD 189/kg | CIP Hamburg (air) | 125kg | [↗](https://mail.google.com/mail/u/0/#all/1994c2c34f86755f) |
+
+### Drotaverine HCl
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-27 | USD 260/kg | CIP Hamburg (air) | 180kg | [↗](https://mail.google.com/mail/u/0/#all/1a0262db38f84771) |
+
+### Gentamicin Sulfate EP
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-31 | USD 1030/bou | CIP Hamburg | — | [↗](https://mail.google.com/mail/u/0/#all/1a0262db38f84771) |
+
+### Gentamicin Sulfate EP injection
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-24 | USD 650/kg | CIP Hamburg | 6bou(10kg) | [↗](https://mail.google.com/mail/u/0/#all/1a0262db38f84771) |
+
+### PVP K-30
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-11 | USD 6.3/kg | FOB Shanghai | 1000kg | [↗](https://mail.google.com/mail/u/0/#all/1a06c610f1ea5d0c) |
+
+### Spinosad 92% TC
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-12 | USD 240/kg | courier | 10kg | [↗](https://mail.google.com/mail/u/0/#all/19ff4822a30e5d48) |
+
+### Sulbactam Sodium Sterile
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-16 | USD 103/kg | CIP Warsaw/Frankfurt | 210kg | [↗](https://mail.google.com/mail/u/0/#all/19f694146673c273) |
+
+### Tetracycline HCl
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-18 | USD 24/kg | FOB Shanghai | 1000kg | [↗](https://mail.google.com/mail/u/0/#all/1a00ec8baefd1b39) |
+
+### Vinilin (polyvinyl butyl ether)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-18 | USD 12.0/kg | FOB | 1000-2000kg | [↗](https://mail.google.com/mail/u/0/#all/1a00ec8baefd1b39) |

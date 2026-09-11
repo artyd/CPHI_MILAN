@@ -35,3 +35,14 @@
 | `anand@anmol.org` | 0 | 1 |
 
 _Глибина даних: часткова (2 з 3 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Surbhi Arekar | Team Leader | surbhi@anmol.org | — | — | [лист](https://mail.google.com/mail/u/0/#all/19f62910cbfc5425) |
+| Prerna Rane | Executive-Technical Documentation | prerna@mubychem.com | +91-9082808311 | — | [лист](https://mail.google.com/mail/u/0/#all/19f62910cbfc5425) |
+| Carolin Johnson | Assistant Manager | carolin@anmol.org | +91-8652635188 | — | [лист](https://mail.google.com/mail/u/0/#all/19f62910cbfc5425) |
+| Manasi Rane | Sales Manager | manasi@anmol.org | +91-9320370100 | — | [лист](https://mail.google.com/mail/u/0/#all/19f62910cbfc5425) |

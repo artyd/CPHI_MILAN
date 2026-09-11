@@ -23,3 +23,11 @@
 | `sales16@hugestone-china.com` | 23 | 11 |
 
 _Глибина даних: повна (10 з 10 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Davina | Sales Manager | sales16@hugestone-china.com | 0086 17714533076 | 0086 17714533076 | [лист](https://mail.google.com/mail/u/0/#all/1a0896930af3a6a4) |

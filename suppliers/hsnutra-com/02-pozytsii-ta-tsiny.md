@@ -82,3 +82,13 @@ _2 котирувань, 2026-05-28 → 2026-05-28: ціна зросла на 1
 | 2023-03-10 | USD 158/ | CIP Tashkent | injection grade, white to off-white powder | — | — | [↗](https://mail.google.com/mail/u/0/#all/186c972c144ace95) |
 
 Примітки: ціна $158 вказана для партії 50kg — з листа не зрозуміло, це за кг чи за всю партію (дослівно: "Quantity：50kg / Price：$158"); DMF є лише для oral grade, не для injection grade
+
+---
+
+## Нові дані (2026-09-11)
+
+### Fish Collagen (peptides)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-09 | USD 9.5/kg | FOB Shanghai | 450kg | [↗](https://mail.google.com/mail/u/0/#all/1a08158379948e89) |

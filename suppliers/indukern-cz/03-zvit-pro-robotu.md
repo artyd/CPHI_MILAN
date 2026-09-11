@@ -39,3 +39,14 @@
 - **Aminophylline EP** — чекаємо конкретну ціну на Metamizole sodium (Analgin) FCA Hamburg — Борис обіцяв 'revert'  [↗](https://mail.google.com/mail/u/0/#all/1860cfd23da2331b)
 
 _Днів до CPHI: 57. Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 2 нових тем листування. Останній контакт тепер **2026-09-10**, усього тем: 7, листів від нас/них: 106/47.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [order Cafein anh. 25 kgs/ PC Alliancer Group UA/s FCA Hbg](https://mail.google.com/mail/u/0/#all/1a00ec42a156c1c1) | Caffeine anhydrous | order | — |
+| [order Caffein anh. 25 kgs/ PC Alliance Group UA/s FCA Hbg](https://mail.google.com/mail/u/0/#all/1a048728a210f8aa) | Caffeine anhydrous | order | Водій вже забрав бочку; очікуємо підтвердження, чи додаткове маркування наклеєне на саму бочку (не лише на плівку піддону). |
