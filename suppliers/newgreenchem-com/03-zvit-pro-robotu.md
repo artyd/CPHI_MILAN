@@ -49,3 +49,14 @@
 - **Sorbitol Powder 20-60mesh** — ми питали ціну на Sorbitol 70% liquid і фрахт Tianjin-Hamburg 19.03 — відповіді в цьому треді немає  [↗](https://mail.google.com/mail/u/0/#all/18e12c3ae25dda64)
 
 _Днів до CPHI: 57. Глибина даних: повна (9 з 9 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 2 нових тем листування. Останній контакт тепер **2026-09-10**, усього тем: 11, листів від нас/них: 79/50.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Re:   GLYCEROL MONOSTEARATE 90](https://mail.google.com/mail/u/0/#all/1a03c17900b26ab9) | Glycerol Monostearate 90 | no_price | Newgreen чекає рішення клієнта по 1x20FCL Glycerol Monostearate 90% (востаннє $1.425/кг), контейнер, ймовірно, вже придбаний в іншого постачальника. |
+| [Re:   New pricelist of Food Ingredients from Newgreen](https://mail.google.com/mail/u/0/#all/19f5af285f4397be) | Food ingredients price list (Dextrose, Citric Acid, Taurine, Glycerol Monostearate, etc.) | no_price | Newgreen чекає нового замовлення (Dextrose/Fufeng тощо); наразі є запас на складі, нове замовлення заплановано пізніше. |

@@ -31,3 +31,13 @@ _2 котирувань, 2024-06-11 → 2024-06-18: ціна зросла на 4
 | Дата | Ціна | Базис | Специфікація | MOQ | Оплата | Лист |
 |---|---|---|---|---|---|---|
 | 2024-06-11 | USD 21.09/kg | CIP Budapest (air) | BP | 25 kg | advance against COA | [↗](https://mail.google.com/mail/u/0/#all/19006e38e97a359e) |
+
+---
+
+## Нові дані (2026-09-11)
+
+### Magnesium Oxide USP
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-09 | USD 21.58/kg | CIF Air Athens, Greece | 50kg | [↗](https://mail.google.com/mail/u/0/#all/1a0800834bea1f82) |

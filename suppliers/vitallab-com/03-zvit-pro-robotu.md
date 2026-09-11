@@ -35,3 +35,14 @@
 - **Cetirizine dihydrochloride** — чекаємо надання дійсної виробничої ліцензії від Vital на цетиризин для MOH  [↗](https://mail.google.com/mail/u/0/#all/193f3b7bb300e6dc)
 
 _Днів до CPHI: 57. Глибина даних: повна (2 з 2 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 2 нових тем листування. Останній контакт тепер **2026-09-02**, усього тем: 4, листів від нас/них: 18/12.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Прочитано: Offer for 5 kg  Thiocolchicoside injection grade -Uzbekistan](https://mail.google.com/mail/u/0/#all/1a061753370a0778) | Thiocolchicoside injection grade | dead | — |
+| [Offer for 5 kg  Thiocolchicoside injection grade -Uzbekistan](https://mail.google.com/mail/u/0/#all/19e073c9b34a7f98) | Thiocolchicoside injection grade | dead | Очікуємо нашу відповідь на пропозицію Thiocolchicoside injection grade (5кг, 7450 USD/кг CIP Air Tashkent) - постачальник кілька разів нагадував про відсутність фідбеку. |

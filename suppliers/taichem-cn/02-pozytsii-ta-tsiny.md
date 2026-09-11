@@ -4768,3 +4768,20 @@ _2 котирувань, 2026-06-25 → 2026-07-02: ціна зросла на 1
 - 2025-08-27 — ціна лише у вкладенні: Taicheng offer.pdf ([лист](https://mail.google.com/mail/u/0/#all/198eb23459228eaa))
 - 2025-12-19 — ціна лише у вкладенні: taicheng offer 12.19.pdf ([лист](https://mail.google.com/mail/u/0/#all/19b3632911d131b6))
 - 2025-12-26 — ціна лише у вкладенні: taicheng offer 12.19-Qingdao.pdf ([лист](https://mail.google.com/mail/u/0/#all/19b58b89da68cab8))
+
+---
+
+## Нові дані (2026-09-11)
+
+### Chloramphenicol EP (Northeast)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-04 | USD 70.0/kg | FOB Shanghai | 200kg | [↗](https://mail.google.com/mail/u/0/#all/19a2cdbc2ccc606d) |
+| 2026-09-04 | USD 68.0/kg | FOB Shanghai | 500kg | [↗](https://mail.google.com/mail/u/0/#all/19a2cdbc2ccc606d) |
+
+### Chloramphenicol EP9 (Wuhan Wuyao)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-22 | USD 63.2/kg | FOB Shanghai/Qingdao | 1MT | [↗](https://mail.google.com/mail/u/0/#all/19a2cdbc2ccc606d) |

@@ -32,3 +32,11 @@
 | `teijken@ofichem.com` | 1 | 0 |
 
 _Глибина даних: повна (14 з 14 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Marc de Rooij | Sales Executive | m.derooij@ofichem.com | +31 599 584 174 | — | [лист](https://mail.google.com/mail/u/0/#all/1a0337ccb7ec3300) |

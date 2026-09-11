@@ -41,3 +41,15 @@
 - **PAMS-100 / HY-9110 / HY-9120 / SBS** — Martina 09.07 запитала, чи ще потрібен PAMS-100, який колір і точку розм'якшення жовтої смоли брати і чи пакувати весь обсяг (25 т) на палети — наша відповідь у цьому треді не зафіксована  [↗](https://mail.google.com/mail/u/0/#all/19735e73fcdb7185)
 
 _Днів до CPHI: 57. Глибина даних: повна (4 з 4 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 3 нових тем листування. Останній контакт тепер **2026-09-10**, усього тем: 7, листів від нас/них: 52/28.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [New request for customer GRAN POLYCHEM](https://mail.google.com/mail/u/0/#all/19fd5cb6d112594f) | MS Polymer M330A/M310A, Felcosil R118, Crosile-171, Crosile-792 (Wacker Geniosil equivalents for GRAN POLYCHEM) | ongoing | — |
+| [Re: New request for customer GRAN POLYCHEM – Price Feedback folloup up](https://mail.google.com/mail/u/0/#all/1a036fb862115b3e) | MS Polymer M330A/M310A, Felcosil R118, Crosile-171, Crosile-792 (GRAN POLYCHEM project, Wacker Geniosil equivalents) | ongoing | Очікуємо перевірку можливості покращення ціни на MS Polymer M310A, Felcosil R118, Crosile-171 та відправку зразків у зазначених кількостях. |
+| [Polymethylene Phenyl Isocyanate](https://mail.google.com/mail/u/0/#all/1a08a22d74682ea7) | Polymethylene Phenyl Isocyanate (MDI) | ongoing | Очікуємо оцінку наданого TDS/специфікації клієнта та комерційну пропозицію на Polymethylene Phenyl Isocyanate (FCL 40ft). |

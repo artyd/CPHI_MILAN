@@ -21,3 +21,11 @@
 | `market@yitaipharmacy.com` | 2 | 3 |
 
 _Глибина даних: повна (1 з 1 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Jeanne Sheng (盛洁君) | Sales Director | market@yitaipharmacy.com | +86-571-56095720 / Mobile +86-18972935688 | — | [лист](https://mail.google.com/mail/u/0/#all/1a03d7eedd13ad39) |

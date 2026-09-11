@@ -133,3 +133,17 @@
 - **HPV-CI Chemical Indicators (Bioquell)** — уточнюємо назву компанії для замовлення (TEKHINFORM PLUS LLC чи Analytinform) та чи можлива DHL доставка в Україну (Ecolab наполягав на FCA)  [↗](https://mail.google.com/mail/u/0/#all/18b8ffdb95fee5ea)
 
 _Днів до CPHI: 57. Глибина даних: повна (52 з 52 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 5 нових тем листування. Останній контакт тепер **2026-09-10**, усього тем: 57, листів від нас/них: 232/95.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [15042026 EAP - FOC, Declaration Required (Email ID 712601416094) #617658210](https://mail.google.com/mail/u/0/#all/1a03309cb04dd55a) | Hydrogen Peroxide (Bioquell, FOC replacement box) | ongoing | Bioquell потребує підписаної декларації кінцевого користувача для випуску заміни перекису водню за замовленням 15042026 EAP. |
+| [Meeting recap](https://mail.google.com/mail/u/0/#all/1a019641a0b01c43) | Bioquell tools/training/isolators (project coordination) | ongoing | Очікуємо контакт компанії, що виконує калібрування інструментів Ecolab (глобальний партнер), та дати встановлення ProteQ для планування віддаленої підтримки. |
+| [training for Qube 2026 France](https://mail.google.com/mail/u/0/#all/19f37c563019219b) | Qube training (France), pass box (pass-through chamber) | ongoing | Отримано запрошувальний лист для навчання Qube (Руслан Зубар); також очікуємо комерційну пропозицію по проекту pass box (альтернативний виробник через PBSC). |
+| [Urgent: RFID Expiry Date Mismatch on 150 ml HPV-AQ Bottles](https://mail.google.com/mail/u/0/#all/19fc61266e65a155) | Bioquell HPV-AQ hydrogen peroxide (RFID expiry mismatch / replacement) | ongoing | Просили не відвантажувати заміну перекису водню без нашої додаткової згоди; очікуємо уточнення умов доставки (брокер) перед відправкою. |
+| [Re: BIOQUELL ISOLATOR CI, (BOX OF 100) #617394460](https://mail.google.com/mail/u/0/#all/1a00fb24b0f662a4) | BIOQUELL Isolator CI (Chemical Indicators), Printer Paper | ongoing | Очікуємо оновлений інвойс (3203248691) з урахуванням Chemical Indicators, Printer Paper та вартості доставки для оплати; перекис водню не поєднувати з цим замовленням. |

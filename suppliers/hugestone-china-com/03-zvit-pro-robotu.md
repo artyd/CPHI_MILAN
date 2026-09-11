@@ -50,3 +50,15 @@
 - **Sorbitol powder** — запитали чи можна купити продукт у ЄС - відповіді на це в треді немає  [↗](https://mail.google.com/mail/u/0/#all/18e79bbd34a5c745)
 
 _Днів до CPHI: 57. Глибина даних: повна (10 з 10 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 3 нових тем листування. Останній контакт тепер **2026-09-10**, усього тем: 13, листів від нас/них: 11/29.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Greetings from HUGESTONE!](https://mail.google.com/mail/u/0/#all/1a01e8a0b7a04dd6) | Food/feed additives (marketing) | info | Перше знайомство від Hugestone Enterprise — відповіді ще не надано. |
+| [RE: Greetings from HUGESTONE!](https://mail.google.com/mail/u/0/#all/1a06684b827edb98) | Food/feed additives (marketing) | info | Повторне представлення Hugestone Enterprise — відповіді ще не надано. |
+| [Meet all your Additives needs - Hugestone Enterprise](https://mail.google.com/mail/u/0/#all/1a0896930af3a6a4) | Sweeteners, Acidity Regulators, Vitamins, Preservatives, Phosphates (marketing) | info | Пропозиція асортименту харчових добавок/API від Hugestone — відповіді з нашого боку ще не було. |

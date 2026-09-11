@@ -35,3 +35,11 @@
 | `zhongbo@nepharm.com` | 0 | 3 |
 
 _Глибина даних: повна (12 з 12 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Qiao Lin (乔琳) | Sales Manager | qiaolin@nepharm.com | +86-13940579632 | — | [лист](https://mail.google.com/mail/u/0/#all/19f88b9e065697d6) |

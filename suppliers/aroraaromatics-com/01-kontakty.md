@@ -26,3 +26,11 @@
 | `sales@aroraaromatics.com` | 0 | 1 |
 
 _Глибина даних: повна (1 з 1 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Ashok K Chugh | Asst. to M.D. | sales@aroraaromatics.com | +91 5923 232373 / Cell +91 9927822225 | — | [лист](https://mail.google.com/mail/u/0/#all/19f6041b39020727) |

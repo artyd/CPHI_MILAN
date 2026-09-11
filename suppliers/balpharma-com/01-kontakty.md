@@ -24,3 +24,12 @@
 | `intlmktg@balpharma.com` | 0 | 2 |
 
 _Глибина даних: повна (2 з 2 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Sanjay Rathod | — | sanjay@balpharma.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/194929623d7551e1) |
+| Harshal Bagherwal | Executive - API International Marketing | adm@balpharma.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/194929623d7551e1) |

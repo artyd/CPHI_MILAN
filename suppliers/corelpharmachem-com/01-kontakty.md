@@ -32,3 +32,12 @@
 | `dhara@corelpharmachem.com` | 0 | 2 |
 
 _Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Priyanka Singh / Monika Dhoot | Assistant Manager / covering International Technical Marketing | corel@corelpharmachem.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19ef39cd58b35120) |
+| Harsh Shah | Assistant Manager – International Technical Marketing | harsh@corelpharmachem.com | 91-8511131692 / +91 8000880011/22/33 | — | [лист](https://mail.google.com/mail/u/0/#all/1a06b2fca5461869) |

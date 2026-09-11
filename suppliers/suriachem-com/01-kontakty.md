@@ -35,3 +35,11 @@
 | `cs6@suriachem.com` | 0 | 12 |
 
 _Глибина даних: повна (20 з 20 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Kelly Chen | Sales & Marketing Team | kelly@suriachem.com | +60 12 210 8199 (WhatsApp) | — | [лист](https://mail.google.com/mail/u/0/#all/1a03d8a6b1f0bc26) |

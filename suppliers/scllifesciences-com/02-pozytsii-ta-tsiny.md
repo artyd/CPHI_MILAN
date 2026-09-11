@@ -15,3 +15,14 @@
 Ці прайси надійшли файлом, а завантаження вкладень недоступне:
 
 - 2026-02-11 — ціна лише у вкладенні: PI-PRIME REV.pdf (проформа-інвойс); сума платежу за 30 кг видна лише з назви вкладення платіжного доручення '9600 USD BOCP.pdf' ([лист](https://mail.google.com/mail/u/0/#all/19c4b67c066415f4))
+
+---
+
+## Нові дані (2026-09-11)
+
+### Dexketoprofen Trometamol
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-01 | USD 350/kg | CIP Air Tashkent | 20kg | [↗](https://mail.google.com/mail/u/0/#all/1a05bc25b52c13f3) |
+| 2026-09-01 | USD 300/kg | CIP Air Tashkent | 100kg | [↗](https://mail.google.com/mail/u/0/#all/1a05bc25b52c13f3) |

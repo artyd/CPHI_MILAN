@@ -21,3 +21,11 @@
 | `wangyunqing@fz-antibiotic.com` | 2 | 3 |
 
 _Глибина даних: повна (1 з 1 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Wendy Wang | Sales | wangyunqing@fz-antibiotic.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a0145bd11e767c1) |

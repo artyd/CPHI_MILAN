@@ -17,3 +17,14 @@ _Імена й телефони беруться з підписів у лист
 | `myrbiskup@ukr.net` | 3 | 5 |
 
 _Глибина даних: лише перепис (0 з 35 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Павел | Менеджер | pavel.charlie@ukr.net | 0734155155 | — | [лист](https://mail.google.com/mail/u/0/#all/1a06668b798df176) |
+| Павел | Менеджер | pavel.charlie@ukr.net | 0734155155 | — | [лист](https://mail.google.com/mail/u/0/#all/1a06664e40d52181) |
+| Ionin Vladimir (Володимир Іонін) | Ph.D., contact person | ionin_v@ukr.net | +38 (050) 312-71-73 / +38 (068) 312-71-73 | +38 (050) 312-71-73 | [лист](https://mail.google.com/mail/u/0/#all/1a05cdd7631438cf) |
+| Peter Szikora | Sales Manager, Constructing and Coating Silicones | Peter.Szikora@wacker.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a05cdd7631438cf) |

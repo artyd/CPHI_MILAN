@@ -26,3 +26,11 @@
 | `nilesh@nilechemicals.com` | 0 | 5 |
 
 _Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Nilesh Shah | Sales | sales@nilechemicals.com | 91 22 66313162 / Mobile 9821094163 / 9320398116 | — | [лист](https://mail.google.com/mail/u/0/#all/19bd9fb00eefcbf3) |

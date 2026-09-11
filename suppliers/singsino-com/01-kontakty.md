@@ -28,3 +28,14 @@
 | `sales@singsino.com` | 0 | 3 |
 
 _Глибина даних: часткова (194 з 195 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Tony Liu | Sales | tony@singsino.com | +86-532-85808802-239 | 18561875238 | [лист](https://mail.google.com/mail/u/0/#all/1a07a7d306ea0667) |
+| Karyna Subota | Logistics | cilogist1@gmail.com | +380 95 781 62 95 | — | [лист](https://mail.google.com/mail/u/0/#all/19feb10d48bf16e1) |
+| Steven | Sales | gbpharm_steven@gbpharm.com | +86-571-82390339 | — | [лист](https://mail.google.com/mail/u/0/#all/1994c2c34f86755f) |
+| Candy | Sales | sale01@hzrustar.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19b089b31c2d1742) |

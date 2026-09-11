@@ -27,3 +27,15 @@
 | `sales@spentose.com` | 1 | 1 |
 
 _Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Amisha Vaishya | — | amisha.vaishya@swatispentose.com | +91 22 61505200 | — | [лист](https://mail.google.com/mail/u/0/#all/19ac636e046da5e3) |
+| Ananta Wadekar | — | ananta.wadekar@swatispentose.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19ac636e046da5e3) |
+| Vijula Rajan | — | vijula.rajan@swatispentose.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19ac636e046da5e3) |
+| Philomena Gaikwad | — | philomena.gaikwad@swatispentose.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19ac636e046da5e3) |
+| Rosabel | — | pharmacology@spentose.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19ac636e046da5e3) |

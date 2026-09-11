@@ -25,3 +25,12 @@
 | `sukeshshetty@vitallab.com` | 0 | 5 |
 
 _Глибина даних: повна (2 з 2 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Hetal Darji | Regional Head - Mature Markets | hetaldarji@vitallab.com | +91 9594060804 | — | [лист](https://mail.google.com/mail/u/0/#all/19e073c9b34a7f98) |
+| Pavnesh Upadhyay | Regional Head – CIS, MENA & China | pavneshupadhyay@vitallab.com | +91 9867583887 / +91 9594060804 | — | [лист](https://mail.google.com/mail/u/0/#all/19e073c9b34a7f98) |

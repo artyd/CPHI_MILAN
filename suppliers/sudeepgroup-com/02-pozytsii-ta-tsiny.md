@@ -71,3 +71,19 @@ _2 котирувань, 2026-08-13 → 2026-08-13: ціна зросла на 1
 | Дата | Ціна | Базис | Специфікація | MOQ | Оплата | Лист |
 |---|---|---|---|---|---|---|
 | 2026-08-06 | USD 50/kg | CIP Tashkent (air shipment) | BP/EP/USP, heavy powder | 25 kg | 100% advance | [↗](https://mail.google.com/mail/u/0/#all/19fd5e2b8c9ac22f) |
+
+---
+
+## Нові дані (2026-09-11)
+
+### Sodium Citrate Anhydrous USP/FCC
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-18 | EUR 75/kg | CIP Tashkent by air | 25kg | [↗](https://mail.google.com/mail/u/0/#all/1a014829ec554d24) |
+
+### Sodium Citrate Anhydrous USP/FCC (with microbiology test)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-21 | EUR 79/kg | CIP Tashkent by air | 25kg | [↗](https://mail.google.com/mail/u/0/#all/1a014829ec554d24) |

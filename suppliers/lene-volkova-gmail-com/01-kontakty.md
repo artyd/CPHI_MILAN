@@ -19,3 +19,12 @@
 | `lene.volkova@gmail.com` | 18 | 32 |
 
 _Глибина даних: часткова (21 з 22 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Sushil Bapat | Executive Director | Sushil.Bapat@labindia.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a05b8a93c01302b) |
+| Renu Joshi | Asst. to Sushil Bapat | — | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a05b8a93c01302b) |

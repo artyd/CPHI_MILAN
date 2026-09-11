@@ -19,3 +19,11 @@
 | `parikshit.kotkar@godrejinds.com` | 4 | 3 |
 
 _Глибина даних: повна (3 з 3 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Hemlata Jadhav | Sales | hemlata.jadhav@godrejinds.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19c660e7a530658a) |

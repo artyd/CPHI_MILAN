@@ -17,3 +17,19 @@
 | `18e13a4fea4fb69e` | [↗](https://mail.google.com/mail/u/0/#all/18e13a4fea4fb69e) |
 | `18ed1d4c9b09eb55` | [↗](https://mail.google.com/mail/u/0/#all/18ed1d4c9b09eb55) |
 | `199525f9fcdc53f4` | [↗](https://mail.google.com/mail/u/0/#all/199525f9fcdc53f4) |
+
+---
+
+## Нові дані (2026-09-11)
+
+### HPMC 75HD100000 (K100M)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-04 | USD 8.65/kg | FOB | 500kg | [↗](https://mail.google.com/mail/u/0/#all/1a0665fac72473c2) |
+
+### Hydroxypropyl Cellulose (HPC)
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-04 | USD 24.5/kg | FOB | 300kg | [↗](https://mail.google.com/mail/u/0/#all/1a06650bd6dee001) |

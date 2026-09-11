@@ -23,3 +23,11 @@
 | `liubaoyi@grandpharma.cn` | 0 | 2 |
 
 _Глибина даних: повна (4 з 4 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Sophia Shu | — | sophiashu@grandpharma.cn | +86 13477093862 | — | [лист](https://mail.google.com/mail/u/0/#all/19f83c46b1b373ec) |

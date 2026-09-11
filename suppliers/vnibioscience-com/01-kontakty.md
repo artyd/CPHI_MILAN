@@ -23,3 +23,12 @@
 | `gregory@vnibioscience.com` | 11 | 7 |
 
 _Глибина даних: повна (10 з 10 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Gregory | Sales | info@vnibioscience.com | 86-532-84670961 | 86-15966850075 | [лист](https://mail.google.com/mail/u/0/#all/1a089da74c05560e) |
+| Angel | Sales | angel@vnibioscience.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19ff9e27e3da0199) |

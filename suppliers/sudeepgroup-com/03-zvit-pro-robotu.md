@@ -44,3 +44,18 @@
 - **Sodium Citrate Anhydrous (BP/USP)** — надіслали PO на підтвердження замовлення 100kg за EUR 11/kg CIP Athens (авіа) 29.12.2025 — відповіді постачальника з підтвердженням PO в цьому треді ще немає  [↗](https://mail.google.com/mail/u/0/#all/19b6a3f67997a50b)
 
 _Днів до CPHI: 57. Глибина даних: повна (6 з 6 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 6 нових тем листування. Останній контакт тепер **2026-09-10**, усього тем: 12, листів від нас/них: 68/33.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [RE: Alliance / Ukraine / Sodium citrate / 25kg / CIP Tashkent, Uzbekistan /Price offer](https://mail.google.com/mail/u/0/#all/1a014829ec554d24) | Sodium Citrate (anhydrous), 25kg | dead | — |
+| [Automatic reply: Alliance Group / PRIME FORCE / Ukraine / Sodium citrate (anhydrous) / 1mt / Air shipment / 30072026/PSS / Tentative Readiness](https://mail.google.com/mail/u/0/#all/1a06b1ab451308b1) | — | info | — |
+| [Alliance Group / PRIME FORCE / Ukraine / Sodium citrate (anhydrous) / 1mt / Air shipment / 30072026/PSS / Tentative Readiness](https://mail.google.com/mail/u/0/#all/1a014b4e9e30b9f1) | Sodium Citrate (anhydrous) | ongoing | Очікуємо сертифікат аналізу (COA) на партію, обіцяний приблизно до 8 вересня, для подальшого відвантаження в Грецію (PROVET S.A.). |
+| [Alliance Group / PRIME FORCE / Ukraine / Sodium citrate (anhydrous) / 1mt / Air shipment / 30072026/PSS / COA & Flight Schedule](https://mail.google.com/mail/u/0/#all/1a07b5440359c5bb) | Sodium Citrate (anhydrous) | order | Очікуємо погодження документів для відвантаження, щоб не втратити узгоджений тариф на авіафрахт та рейс 10 вересня. |
+| [Alliance Group / PRIME FORCE / Ukraine / Sodium citrate (anhydrous) / 1mt / Air shipment / 30072026/PSS / Draft Shipping Docs](https://mail.google.com/mail/u/0/#all/1a07b9f3855b258d) | Sodium Citrate (anhydrous) | order | — |
+| [RE: Alliance Group / PRIME FORCE / Ukraine / Sodium citrate (anhydrous) / 1mt / Air shipment / 30072026/PSS / Draft Shipping Docs / Invoice No. SPET2627/50680](https://mail.google.com/mail/u/0/#all/1a089e58f3177a95) | Sodium Citrate (anhydrous) | order | — |

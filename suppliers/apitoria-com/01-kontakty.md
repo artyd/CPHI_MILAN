@@ -31,3 +31,11 @@
 | `sivaramsdvn@apitoria.com` | 0 | 1 |
 
 _Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Shivam Gupta | — | Shivam.Gupta@apitoria.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a07fe35f90e6374) |

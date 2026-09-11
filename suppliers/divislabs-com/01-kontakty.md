@@ -36,3 +36,13 @@
 | `dsnaidu@divislabs.com` | 0 | 4 |
 
 _Глибина даних: повна (12 з 12 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Amitha | — | amitha@divislabs.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a085d9c6dfb0d18) |
+| Mounica Erabattini | — | mounica.e@divislabs.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a085d9c6dfb0d18) |
+| Doraswamy | — | dsnaidu@divislabs.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a085d9c6dfb0d18) |

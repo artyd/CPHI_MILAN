@@ -346,3 +346,32 @@
 - **multiple positions (cephalosporin antibiotics, consolidated cargo)** — Cefepime — джерела немає; постачальник питав, чи прийнятні наведені MOQ (200-300кг) — відповіді покупця в цьому треді немає  [↗](https://mail.google.com/mail/u/0/#all/1977e62d972ad9bd)
 
 _Днів до CPHI: 57. Глибина даних: часткова (194 з 195 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 20 нових тем листування. Останній контакт тепер **2026-09-11**, усього тем: 215, листів від нас/них: 646/589.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Spinosad](https://mail.google.com/mail/u/0/#all/19ff4822a30e5d48) | Spinosad 92% TC | order | Очікуємо узгодження назви продукту в документах (COA/лейбл відповідно до контракту: SPINOSAD 90% MIN. TC vs SPINOSAD TECHNICAL). |
+| [request for Ukraine](https://mail.google.com/mail/u/0/#all/1a00ec8baefd1b39) | Ketotifen hydrogen fumarate, Vinilin (polyvinyl butyl ether), Tetracycline HCl | ongoing | Очікуємо пропозицію по Ketotifen hydrogen fumarate (постачальник Zhejiang Huahai ще не відповів). |
+| [回复: RE: RE: RE: Re: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: Spinosad](https://mail.google.com/mail/u/0/#all/1a01f8e64c6b286b) | Spinosad (contract/label re-signing) | order | Очікуємо підписаний контракт та відвантажувальні документи. |
+| [Inquiry for Ibuprofen CEP grade](https://mail.google.com/mail/u/0/#all/1a0354edc09a3fcd) | Ibuprofen CEP grade (Hubei Biocause Heilen Pharmaceutical) | no_price | Почекати до середини вересня, коли завод відновить котирування (поточні замовлення заплановані до кінця жовтня). |
+| [Spinosad](https://mail.google.com/mail/u/0/#all/1a0321b60a6eedbd) | Spinosad (shipping documents correction) | order | Підтвердити фінальні документи (Certificate of Origin з 4-значним HS-кодом, узгоджені виправлення інвойсу/пакинг-листа). |
+| [回复: RE: RE: RE: Inosine injection grade for Uzbekistan](https://mail.google.com/mail/u/0/#all/19f6a01de69663f4) | Inosine injection grade (for Uzbekistan, Tekhinform Plus LLC) | order | — |
+| [Lactic acid 88 000048356](https://mail.google.com/mail/u/0/#all/19feb10d48bf16e1) | Lactic acid 88% (Uzbekistan shipment) | order | — |
+| [Bendazol HCL sample for Ukraine](https://mail.google.com/mail/u/0/#all/1a02611bc41b2f5b) | Bendazol HCl (sample) for Ukraine | ongoing | Очікуємо відправку зразка (50г + 10кг посилка), кінцевий клієнт Monpharm LTD. |
+| [Tender products](https://mail.google.com/mail/u/0/#all/1a0262db38f84771) | Candesartan Cilexetil EP, Clarithromycin EP, Gentamicin Sulfate, Drotaverine HCl, Ceftazidime with Sodium Carbonate (tender products) | ongoing | Потрібно вирішити, чи прийнятна пропозиція Gentamicin партії 2024 р. за USD 900/бо. |
+| [Re:RE: RE: RE: RE: 回复：Drotaverine HCL from Zhejiang Apeloa Kangyu Pharmaceutical Co., LTD](https://mail.google.com/mail/u/0/#all/1a057b8b9ea9fe57) | Drotaverine HCl (oral grade) - COA format | ongoing | Потрібно обрати варіант A чи B по формату COA для тендеру (нова vs стара версія стандарту). |
+| [Harbin Pharmaceutical](https://mail.google.com/mail/u/0/#all/1a059cf1402f58af) | Ceftazidime with Sodium Carbonate Sterile (Harbin Pharmaceutical) - COA/address discrepancy | ongoing | Очікуємо документи (DMF/ліцензія виробника) щодо зміни адреси виробництва Ceftazidime. |
+| [Bendazol HCL](https://mail.google.com/mail/u/0/#all/19b089b31c2d1742) | Bendazol HCl (bacterial endotoxin spec / DMF, master thread) | ongoing | Очікуємо специфікацію по бактеріальним ендотоксинам від виробника (Second Pharma альтернативний виробник). |
+| [Candesartan](https://mail.google.com/mail/u/0/#all/1a07a7d306ea0667) | Candesartan Cilexetil EP | ongoing | Очікуємо інформацію від клієнта по Candesartan, щоб відповісти Tony. |
+| [Spinosad](https://mail.google.com/mail/u/0/#all/1a037b801ddb80d8) | Spinosad (pesticide, export license issue) | order | — |
+| [Reference price request](https://mail.google.com/mail/u/0/#all/1a08b91acbc91a60) | Ceftriaxone Sodium, Lincomycin HCl, Cefazolin Sodium, Hydrochlorthiazide, Rifampicin, Doxycycline Xyclate, Griseofulvin, Cefuroxime Sodium Sterile, Cefepim HCl, Rutin, Citicoline Sodium, Ceftazidime with Sodium Carbonate, Ondansetron HCl (reference price list) | no_price | Очікуємо довідкові ціни від Tony по переліку продуктів (FOB Shanghai / CIP Warsaw). |
+| [回复: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: 回复：Bendazol HCL](https://mail.google.com/mail/u/0/#all/1a0671bf1a41e67f) | Bendazol HCl (Bendazole Hydrochloride) - Uzbekistan registration | ongoing | Очікуємо DMF (обіцяно протягом 2 тижнів) і потрібно підписати та повернути NDA. |
+| [回复: RE: Harbin Pharmaceutical](https://mail.google.com/mail/u/0/#all/1a0666cdcf8b7fb2) | Ceftazidime with Sodium Carbonate Sterile (Harbin Pharmaceutical) | ongoing | Потрібно погодити дату аудиту (жовтень/листопад 2026) і уточнити чи входить виробнича лінія в область аудиту. |
+| [Clarithromycin EP inquiry](https://mail.google.com/mail/u/0/#all/1994c2c34f86755f) | Clarithromycin EP | ongoing | Клієнт каже, що має нижчу ціну від іншого постачальника - потрібно з'ясувати деталі та узгодити прийнятну ціну зі Steven (Zhejiang Guobang). |
+| [PVP docs request](https://mail.google.com/mail/u/0/#all/1a06c610f1ea5d0c) | PVP (Povidone) K-30, K-25 | ongoing | Потрібно підтвердити ціну USD 6.3/кг FOB Shanghai для PVP K-30, 1000 кг. |
+| [回复: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: Sulbactam Sodium Sterile order](https://mail.google.com/mail/u/0/#all/19f694146673c273) | Sulbactam Sodium Sterile | order | Очікуємо фінальний AWB, COO, експортну декларацію та страховку. |

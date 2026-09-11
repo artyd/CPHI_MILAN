@@ -25,3 +25,11 @@
 | `sales@pioneerbiotech.com` | 3 | 3 |
 
 _Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Cici | Sales | sales2@pioneerbiotech.com | 86-18191851033 (Wechat/WhatsApp) | — | [лист](https://mail.google.com/mail/u/0/#all/1a02649582e72be7) |

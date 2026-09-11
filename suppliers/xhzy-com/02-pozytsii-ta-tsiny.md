@@ -155,3 +155,20 @@ _2 котирувань, 2024-07-29 → 2024-08-23: ціна не змінила
 | 2026-06-18 | USD 45/kg | CIP Tashkent, Uzbekistan | EP | 1 MT | T/T in advance | [↗](https://mail.google.com/mail/u/0/#all/19ed85b0df4b9f00) |
 
 Примітки: «best unit price»; доступні CEP, COA, GMP, DMF, EDMF, ISO; COA додано (ST PPZ.pdf); зразок 1 кг надати відмовились (лист 19ed9682941cc16c)
+
+---
+
+## Нові дані (2026-09-11)
+
+### Acetylsalicylic acid EPCOS 2060M
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-06-16 | USD 4.0/kg | CIF Sea Hamburg/Gdansk | 3000kg | [↗](https://mail.google.com/mail/u/0/#all/19e48002411e357e) |
+
+### Caffeine
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-05-06 | USD 9.2/kg | CIF Hamburg | 17MT | [↗](https://mail.google.com/mail/u/0/#all/196e73aa9ae43074) |
+| 2025-05-19 | USD 8.5/kg | CIF Hamburg | 5MT | [↗](https://mail.google.com/mail/u/0/#all/196e73aa9ae43074) |

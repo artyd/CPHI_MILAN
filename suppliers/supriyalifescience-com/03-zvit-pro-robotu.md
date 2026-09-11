@@ -1,26 +1,28 @@
-# Supriya Lifescience Ltd — звіт про роботу
+# Supriya LifeScience Ltd. — звіт про роботу
 
-**Статус:** Активний
-**Пріоритет зустрічі на CPHI:** —
+**Статус:** Дійшло до замовлення
+**Пріоритет зустрічі на CPHI:** **54/100**
+
+| Фактор | Бали |
+|---|---|
+| Зависла угода | 40 |
+| Найкраща ціна | 5 |
+| Частота запитів | 3 |
+| Якість контакту | 6 |
 
 ## Хронологія
 
-- Перший контакт: **2024-09-12**
-- Останній контакт: **2026-08-31**
-- Ми написали 6 листів, отримали 4
-- Тем листування: 3
-
-## Основна інформація
-
-- **Країна:** India
-- **Основний продукт/послуга:** Cetirizine Dihydrochloride, Bisoprolol Fumarate, Chlorpheniramine Maleate
-- **Тип компанії:** Виробник/дистриб'ютор
-- **Джерело контакту:** Email-потік на purchase3@agroup95.com
+- Перший контакт: **2026-02-10**
+- Останній контакт: **2026-09-09** — 2 днів тому
+- Ми написали 4 листів, отримали 3
+- Тем листування: 1
 
 ## Стан тем
 
-| Тема | Продукт | Результат |
-|---|---|---|
-| Cetirizine Dihydrochloride, Bisoprolol Fumarate, Chlorpheniramine Maleate | Cetirizine Dihydrochloride, Bisoprolol Fumarate, Chlorpheniramine Maleate | Активний |
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Draft copy of AWB, Draft copy of COO & Label copy   : Inquiry for Pentoxifylline](https://mail.google.com/mail/u/0/#all/19c46e0fd9bb9285) | Pentoxifylline EP, Pheniramine Maleate | order | — |
 
-_Примітка: Renuka Kapare веде більшість листування. Триває обговорення трьох API-продуктів, конкретних цін ще не отримано._
+## Що обговорити на CPHI
+
+- Немає відкритих активних тем на момент оновлення.

@@ -16,3 +16,12 @@ _Імена й телефони беруться з підписів у лист
 | `taurusroom@gmail.com` | 8 | 37 |
 
 _Глибина даних: часткова (1 з 17 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Luna Zhang | — | luna.zhang@biopack.cn | +86 17806267083 | — | [лист](https://mail.google.com/mail/u/0/#all/19fd3cf2016b416a) |
+| Taurus / TaurusYang | — | taurusroom@biopack.cn | — | — | [лист](https://mail.google.com/mail/u/0/#all/19fd3cf2016b416a) |

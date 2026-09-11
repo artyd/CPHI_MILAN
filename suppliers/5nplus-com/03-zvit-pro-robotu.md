@@ -109,3 +109,15 @@
 - **Bismuth subgallate** — автовідповідь Annika Altwig; змістовна переписка продовжилась в інших тредах (186dfbca375fa3fb, 186e497a1b14339a)  [↗](https://mail.google.com/mail/u/0/#all/186da4dc017c61cf)
 
 _Днів до CPHI: 57. Глибина даних: повна (45 з 45 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 3 нових тем листування. Останній контакт тепер **2026-09-09**, усього тем: 48, листів від нас/них: 192/161.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [AW: TDB 800kg new order oc 63627](https://mail.google.com/mail/u/0/#all/19f8e2497b143f6c) | TDB (Bismuth) 800kg | order | — |
+| [Farmak - Bismuth Citrate BPC49](https://mail.google.com/mail/u/0/#all/19f178cf683ac39e) | Bismuth Citrate BPC49 (Farmak) | order | — |
+| [COA request](https://mail.google.com/mail/u/0/#all/1a05ec1058eda4a1) | Bismuth Subnitrate (COA request) | ongoing | Клієнт KMP оновлює внутрішню документацію, немає точного плану закупівлі - очікуємо подальших замовлень. |

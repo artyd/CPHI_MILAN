@@ -35,3 +35,13 @@
 - **Zinc Gluconate; Sucrose Stearate** — наше питання від 29.07.2024 про Sucrose Stearate EP grade з GMP і DMF окремою поставкою лишилось без цінової відповіді; 08.01.2026 Priyanka Jain питала, чи є в нас актуальна потреба в Zinc Gluconate - ми не відповіли  [↗](https://mail.google.com/mail/u/0/#all/1900182eb77b0c4f)
 
 _Днів до CPHI: 57. Глибина даних: часткова (2 з 3 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-09-09**, усього тем: 4, листів від нас/них: 186/40.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Potassium Bromide inquiry](https://mail.google.com/mail/u/0/#all/19f62910cbfc5425) | Potassium Bromide (MOLPOT BRO) | no_price | Очікуємо від Anmol нижчу ціну на Potassium Bromide під брендом Anmol Chemicals (API grade, для реєстрації в Україні) - остання ціна EUR44/кг вважається завищеною. |

@@ -25,3 +25,11 @@
 | `info@synnatpharma.com` | 4 | 2 |
 
 _Глибина даних: повна (2 з 2 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Sweena Karnani / Siddharth Karnani | Sales | info@synnatpharma.com | +91 9966980001 / +91 7032580001 | — | [лист](https://mail.google.com/mail/u/0/#all/19e2ae1a16aab4a1) |

@@ -37,3 +37,13 @@
 - **Valsartan EP** — Tianyu двічі надіслала follow-up (28.04 та 08.05) щодо коментарів Monpharm — відповіді від нас немає  [↗](https://mail.google.com/mail/u/0/#all/18ec80a249958325)
 
 _Днів до CPHI: 57. Глибина даних: повна (2 з 2 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-08-21**, усього тем: 3, листів від нас/них: 51/20.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Inquiry for Candesartan Cilexetil EP](https://mail.google.com/mail/u/0/#all/1982c4fd2104e53c) | Candesartan Cilexetil EP, Sacubitril+Valsartan | dead | Останній лист (100kg CIP Hamburg) повернувся з помилкою - адреса yana.sheng@tianyupharm.com не існує; проєкт для Monpharm/Kievmedpreparat не завершено. |

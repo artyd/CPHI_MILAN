@@ -95,3 +95,56 @@ _2 котирувань, 2025-01-09 → 2025-02-13: ціна не змінила
 | Дата | Ціна | Базис | Специфікація | MOQ | Оплата | Лист |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | USD 1.345/kg | FOB Qingdao | 900 powder, 25kg/bag | 1 x 20GP FCL (~18MT) | як і раніше (за попередніми замовленнями) | [↗](https://mail.google.com/mail/u/0/#all/19e687c66daae2a9) |
+
+---
+
+## Нові дані (2026-09-11)
+
+### Ascorbic Acid 20-80mesh
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-18 | USD 2.25/kg | FOB Qingdao | 23MT/20GP | [↗](https://mail.google.com/mail/u/0/#all/19f5af285f4397be) |
+
+### Citric Acid Monohydrate
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-08 | USD 0.73/kg | FOB Qingdao | 27MT/20GP | [↗](https://mail.google.com/mail/u/0/#all/19f5af285f4397be) |
+
+### Dextrose Monohydrate Food Grade
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-08 | USD 0.44/kg | FOB Dalian | 22MT/20GP | [↗](https://mail.google.com/mail/u/0/#all/19f5af285f4397be) |
+
+### Glycerol Monostearate 90%
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-25 | USD 1.43/kg | FOB Ningbo | 18MT/20GP (1FCL) | [↗](https://mail.google.com/mail/u/0/#all/1a03c17900b26ab9) |
+| 2026-09-01 | USD 1.425/kg | FOB Ningbo | 18MT/20GP (1FCL) | [↗](https://mail.google.com/mail/u/0/#all/1a03c17900b26ab9) |
+
+### Glycerol Monostearate 95%
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-08 | USD 1.435/kg | FOB Shanghai | 18MT/20GP | [↗](https://mail.google.com/mail/u/0/#all/19f5af285f4397be) |
+
+### Sodium Gluconate Food Grade
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-08 | USD 0.565/kg | FOB Qingdao | 24MT/20GP | [↗](https://mail.google.com/mail/u/0/#all/19f5af285f4397be) |
+
+### Sorbitol Powder 20-60mesh
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-08 | USD 0.8/kg | FOB Tianjin | 20MT/20GP | [↗](https://mail.google.com/mail/u/0/#all/19f5af285f4397be) |
+
+### Taurine Food Grade
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-08 | USD 3.6/kg | FOB Shanghai | 20MT/20GP | [↗](https://mail.google.com/mail/u/0/#all/19f5af285f4397be) |

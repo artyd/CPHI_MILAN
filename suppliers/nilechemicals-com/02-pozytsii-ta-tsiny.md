@@ -35,3 +35,28 @@ _2 котирувань, 2023-11-24 → 2024-07-02: ціна впала на 11%
 | Дата | Ціна | Базис | Специфікація | MOQ | Оплата | Лист |
 |---|---|---|---|---|---|---|
 | 2024-05-29 | USD 82.1/kg | FOB | — | 500 kg | advance | [↗](https://mail.google.com/mail/u/0/#all/18fc36fb4defaffa) |
+
+---
+
+## Нові дані (2026-09-11)
+
+### Chlorhexidine Gluconate Solution
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-07-17 | USD 3.65/kg | FOB Nhava Sheva | 900kg | [↗](https://mail.google.com/mail/u/0/#all/19bd9fb00eefcbf3) |
+| 2026-09-09 | USD 3.25/kg | FOB Nhava Sheva | 1800kg | [↗](https://mail.google.com/mail/u/0/#all/19bd9fb00eefcbf3) |
+
+### Denatonium Benzoate
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-03 | USD 65.0/kg | CIP Warsaw (air) | 10x1kg | [↗](https://mail.google.com/mail/u/0/#all/19bd9fb00eefcbf3) |
+
+### Povidone Iodine
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-01-22 | USD 15.7/kg | FOB | 500kg | [↗](https://mail.google.com/mail/u/0/#all/19bd9fb00eefcbf3) |
+| 2026-04-02 | USD 19.0/kg | FOB Nhava Sheva | 500kg | [↗](https://mail.google.com/mail/u/0/#all/19bd9fb00eefcbf3) |
+| 2026-04-02 | USD 17.0/kg | FOB Nhava Sheva | 500kg | [↗](https://mail.google.com/mail/u/0/#all/19bd9fb00eefcbf3) |

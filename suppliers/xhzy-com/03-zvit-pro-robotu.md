@@ -47,3 +47,15 @@
 - **Aspirin, Phenazone** — чекаємо офера по Phenazone 25/50 кг CIP Варшава (запит переданий Zhao 30.06.2023) — відповіді в межах цього треду не отримано  [↗](https://mail.google.com/mail/u/0/#all/188665b27927ebb7)
 
 _Днів до CPHI: 57. Глибина даних: часткова (9 з 10 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 3 нових тем листування. Останній контакт тепер **2026-08-31**, усього тем: 13, листів від нас/них: 90/57.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [sunbo Auto Reply  RE: Re: ACETYLSALICYLIC ACID ORDER 10MT](https://mail.google.com/mail/u/0/#all/1a01bc1e58588b12) | Acetylsalicylic acid (ASA) | ongoing | Отримано лише автовідповідь про відпустку Sun Bo (до 25.08) — по суті замовлення ASA дивись основний тред 19e48002411e357e. |
+| [Re: RE: ACETYLSALICYLIC ACID ORDER 10MT](https://mail.google.com/mail/u/0/#all/19e48002411e357e) | Acetylsalicylic acid (ASA / aspirin) | order | Очікуємо підтвердження від агента отримання фінального COO та документів для завершення відвантаження ASA. |
+| [Caffeine inquiry](https://mail.google.com/mail/u/0/#all/196e73aa9ae43074) | Caffeine | ongoing | Очікуємо перелік змін (checklist) між версіями DMF (Ph.Eur 6.1 → EDMF010-2.0A → EDMF010-3.0A) для реєстраційного досьє. |

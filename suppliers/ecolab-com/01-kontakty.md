@@ -47,3 +47,14 @@
 | `jessica.anton@ecolab.com` | 0 | 3 |
 
 _Глибина даних: повна (52 з 52 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Jessica Tarrant | Customer Service | Bioquell.enquiries@ecolab.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a03309cb04dd55a) |
+| Amy Burton-Pye | Customer Service | Bioquell.enquiries@ecolab.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a00fb24b0f662a4) |
+| Debbie Scrivener | Customer Service Manager (Bioquell) | debbie.scrivener@ecolab.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19fc61266e65a155) |
+| Mina Kovačevič | Business development manager Bioquell CEE | mina.kovacevic@ecolab.com | +386 (0)2 4293 100 | — | [лист](https://mail.google.com/mail/u/0/#all/1a019641a0b01c43) |

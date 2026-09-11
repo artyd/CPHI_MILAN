@@ -25,3 +25,15 @@
 _2 котирувань, 2024-11-13 → 2024-11-20: ціна зросла на 44% (900 → 1300 USD/BOU (KB))_
 
 Примітки: ціна за старий фінальний батч (manufacture date 25.12.2022) у наявності; ціна за свіжий матеріал (fresh material), суттєво вища за ціну старого батча
+
+---
+
+## Нові дані (2026-09-11)
+
+### Gentamicin Sulfate EP11/CEP
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-18 | USD 1000/KB (~1.6kg) | FCA Shanghai | 10KB (~16kg) | [↗](https://mail.google.com/mail/u/0/#all/1a0145bd11e767c1) |
+| 2026-08-21 | USD 1200/KB | CIP air Hamburg | 10KB | [↗](https://mail.google.com/mail/u/0/#all/1a0145bd11e767c1) |
+| 2026-08-21 | USD 1100/KB | FCA Shanghai | 6KB (~9.6kg) | [↗](https://mail.google.com/mail/u/0/#all/1a0145bd11e767c1) |

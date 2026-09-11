@@ -23,3 +23,11 @@
 | `carol.zhao@sinocurechem.com` | 10 | 5 |
 
 _Глибина даних: повна (4 з 4 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Carol Zhao | Sales Manager | carol.zhao@sinocurechem.com | +86 18596365170 | +86 15339953303 | [лист](https://mail.google.com/mail/u/0/#all/19f607ccc12f53f2) |

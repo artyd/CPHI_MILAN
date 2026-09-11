@@ -25,3 +25,11 @@
 | `prachi@prachipharmaceuticals.com` | 32 | 40 |
 
 _Глибина даних: повна (21 з 21 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Anil | Sales | prachi@prachipharmaceuticals.com | +91 22 31822399 / 6691 0063 / 6691 0064 | — | [лист](https://mail.google.com/mail/u/0/#all/1a07dae2052fff4c) |

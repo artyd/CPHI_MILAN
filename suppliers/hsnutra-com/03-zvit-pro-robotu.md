@@ -47,3 +47,13 @@
 - **Chondroitin Sulfate Sodium Injection Grade** — ми не відповіли на котирування $158/50kg CIP Tashkent та на follow-up від 29.03.2023  [↗](https://mail.google.com/mail/u/0/#all/186c67f98586cc70)
 
 _Днів до CPHI: 57. Глибина даних: повна (7 з 7 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-09-10**, усього тем: 8, листів від нас/них: 19/17.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Fish collagen (peptides)](https://mail.google.com/mail/u/0/#all/1a08158379948e89) | Fish collagen (peptides) | ongoing | HS Nutra чекає нашого рішення по ціні 9.5 USD/кг FOB Shanghai на риб'ячий колаген (450кг). |

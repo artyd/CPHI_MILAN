@@ -106,3 +106,19 @@ _3 котирувань, 2023-11-23 → 2024-04-19: ціна впала на 4% 
 | Дата | Ціна | Базис | Специфікація | MOQ | Оплата | Лист |
 |---|---|---|---|---|---|---|
 | 2024-05-28 | USD 178/kg | FOB Nhava Sheva | — | 100 kg | Advance | [↗](https://mail.google.com/mail/u/0/#all/18fbe6b725e24826) |
+
+---
+
+## Нові дані (2026-09-11)
+
+### Potassium Iodide Stabilized
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-08-18 | USD 57.15/kg | FOB Nhava Sheva | 500kg | [↗](https://mail.google.com/mail/u/0/#all/1a07dae954ed1b2f) |
+
+### Povidone Iodine
+
+| Дата | Ціна | Базис | MOQ | Лист |
+|---|---|---|---|---|
+| 2026-09-08 | USD 15.85/kg | FOB Nhava Sheva | 500kg | [↗](https://mail.google.com/mail/u/0/#all/1a07dae954ed1b2f) |

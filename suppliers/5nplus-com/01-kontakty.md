@@ -46,3 +46,14 @@
 | `tobias.petry@5nplus.com` | 0 | 0 |
 
 _Глибина даних: повна (45 з 45 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Mirko Göbel | Senior Commercial Manager | mirko.goebel@5nplus.com | +49-451-53004-79 | — | [лист](https://mail.google.com/mail/u/0/#all/1a05ec1058eda4a1) |
+| Annika Altwig | Customer Service | Annika.Altwig@5nplus.com | +49-451-53004-49 | — | [лист](https://mail.google.com/mail/u/0/#all/19f178cf683ac39e) |
+| Kerstin Schmahl-Oğuz | Customer Service | Kerstin.Schmahl-Oguz@5nplus.com | +49-451-53004-74 | — | [лист](https://mail.google.com/mail/u/0/#all/19f8e2497b143f6c) |
+| Marc Hatje | — | marc.hatje@5nplus.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/19f8e2497b143f6c) |

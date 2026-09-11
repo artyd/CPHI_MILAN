@@ -41,3 +41,17 @@
 - **Sodium Bicarbonate (CAS 144-55-8)** — продавець надіслав DMF та запитує про наші плани закупівлі; наша відповідь відсутня в доступних повідомленнях  [↗](https://mail.google.com/mail/u/0/#all/19f92d13a15597ce)
 
 _Днів до CPHI: 57. Глибина даних: повна (5 з 5 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 5 нових тем листування. Останній контакт тепер **2026-08-27**, усього тем: 10, листів від нас/них: 12/11.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Прочтено: 9084-06-4(Sodium poly[(naphthaleneformaldehyde)sulfonate])   13Kg](https://mail.google.com/mail/u/0/#all/1a0190943cc539fc) | Sodium poly[(naphthaleneformaldehyde)sulfonate] (9084-06-4) | dead | — |
+| [Прочтено: 113507-06-5(Moxidectin)   1Kg Quotation & COA](https://mail.google.com/mail/u/0/#all/1a019093e7064d72) | Moxidectin | dead | — |
+| [Прочтено: 113507-06-5(Moxidectin)   1Kg](https://mail.google.com/mail/u/0/#all/1a019093b7be165d) | Moxidectin | dead | — |
+| [Inquiry for Nonoxynol-9](https://mail.google.com/mail/u/0/#all/1a02649582e72be7) | Nonoxynol-9 | dead | — |
+| [Прочтено: Inquiry for Nonoxynol-9](https://mail.google.com/mail/u/0/#all/1a03cfe1a207604a) | — | dead | — |

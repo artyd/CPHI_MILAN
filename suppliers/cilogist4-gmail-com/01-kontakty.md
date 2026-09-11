@@ -19,3 +19,12 @@
 |---|---|---|
 
 _Глибина даних: повна (6 з 6 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Lyudmyla (Людмила Сибирская) | Manager of Logistic Department | cilogist4@gmail.com | — | — | [лист](https://mail.google.com/mail/u/0/#all/1a07abc18f60c765) |
+| Dhairya Joshi | International Business | bus_intl@kevalexports.com | +91-9173437708 | — | [лист](https://mail.google.com/mail/u/0/#all/19fb7677aaa84c94) |

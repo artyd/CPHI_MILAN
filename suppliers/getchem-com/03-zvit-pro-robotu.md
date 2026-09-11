@@ -50,3 +50,13 @@
 - **Chromium Picolinate** — Kyra кілька разів (09.06-26.06) питала, чи отримали прайс-лист і яке рішення по Chromium Picolinate - відповіді з нашого боку в цьому треді більше не було  [↗](https://mail.google.com/mail/u/0/#all/1973a519fbb6797d)
 
 _Днів до CPHI: 57. Глибина даних: повна (12 з 12 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 1 нових тем листування. Останній контакт тепер **2026-08-21**, усього тем: 13, листів від нас/них: 4/16.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Re:RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: RE: Signed contract for Thiotriazoline from Kyra-- Getchem](https://mail.google.com/mail/u/0/#all/1a0220be1652fa6b) | Thiotriazoline | dead | — |

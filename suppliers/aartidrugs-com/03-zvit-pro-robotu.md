@@ -87,3 +87,15 @@
 - **Diclofenac Sodium** — вантаж у порту призначення, митниця не випускає без сертифікату на палети — запит надіслано 23.06.2023, чекаємо документ  [↗](https://mail.google.com/mail/u/0/#all/186925d017794a90)
 
 _Днів до CPHI: 57. Глибина даних: часткова (33 з 34 тем вичитано)._
+
+---
+
+## Оновлення 2026-09-11
+
+Додано 3 нових тем листування. Останній контакт тепер **2026-09-11**, усього тем: 37, листів від нас/них: 295/176.
+
+| Тема | Продукт | Результат | Що зависло |
+|---|---|---|---|
+| [Holiday RE: Diclofenac Sodium Customer Protection issue](https://mail.google.com/mail/u/0/#all/1a047b15b6dae505) | — | info | — |
+| [RE: Diclofenac Sodium Customer Protection issue](https://mail.google.com/mail/u/0/#all/19e444c0f26b1dbd) | Diclofenac Sodium EP11.0 (oral + injection grade) | order | Очікуємо від Aarti Drugs виправлений пакувальний лист з вагою брутто разом з піддонами та фото бочок партій DFS/126060312, 314, 315, 316 з наклеєним додатковим маркуванням для Chervona Zirka (7500кг, FOB Nhava Sheva, вантаж вже переданий агенту, бронювання на 26.08). |
+| [Re: Nimesulide EP for Chervona Zirka](https://mail.google.com/mail/u/0/#all/19e4ef58d248880f) | Nimesulide EP | ongoing | Aarti Drugs попросили надіслати окремий email щодо наступного замовлення Diclofenac Sodium, а не продовжувати в цьому ланцюжку; лист ще не надісланий. |

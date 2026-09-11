@@ -21,3 +21,11 @@
 | `tonyxxy@gmail.com` | 1 | 3 |
 
 _Глибина даних: повна (1 з 1 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Tony Xu | Sales | tonyxxy@gmail.com | +86-13757753063 (Mobile/WhatsApp/Wechat) | — | [лист](https://mail.google.com/mail/u/0/#all/1a08b55d2181fb37) |

@@ -25,3 +25,11 @@
 | `info@newgreenchem.com` | 18 | 13 |
 
 _Глибина даних: повна (9 з 9 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Mr Tony Wang | Sales | info@newgreenchem.com | +86 182 17053721 (Mobile/Whatsapp) | — | [лист](https://mail.google.com/mail/u/0/#all/19f5af285f4397be) |

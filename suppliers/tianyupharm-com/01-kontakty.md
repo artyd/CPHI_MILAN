@@ -25,3 +25,11 @@
 | `vincent.wang@tianyupharm.com` | 0 | 2 |
 
 _Глибина даних: повна (2 з 2 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Yana Sheng | BD/Shanghai Office | yana.sheng@tianyupharm.com | +86 159 0099 3722 / +86 (021) 6191 7986 105 | — | [лист](https://mail.google.com/mail/u/0/#all/1982c4fd2104e53c) |

@@ -23,3 +23,12 @@
 | `xavier.carette@mosselman.be` | 8 | 9 |
 
 _Глибина даних: повна (6 з 6 тем вичитано)._
+
+---
+
+## Нові контакти (2026-09-11)
+
+| Ім'я | Посада | E-mail | Телефон | WhatsApp | Джерело |
+|---|---|---|---|---|---|
+| Dr. Xavier Carette | Technical sales (DACH & Baltics) and R&D support | xavier.carette@mosselman.be | — | — | [лист](https://mail.google.com/mail/u/0/#all/19f1ce87fdef0130) |
+| Rachid Sadou | Sales (backup for Xavier) | xavier.carette@mosselman.be | — | — | [лист](https://mail.google.com/mail/u/0/#all/19f1ce87fdef0130) |
