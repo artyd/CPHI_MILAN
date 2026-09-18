@@ -629,7 +629,7 @@ function render(){
     if(curPrices==="yes" && !c.prices.length) return false;
     if(curExpo==="yes" && !c.exhibit) return false;
     if(q){
-      const hay=(c.name+" "+c.country+" "+c.products.join(" ")+" "+
+      const hay=(c.name+" "+c.country+" "+(c.products||[]).join(" ")+" "+
         c.people.map(p=>p.name+" "+p.email).join(" ")).toLowerCase();
       if(hay.indexOf(q)<0) return false;
     }
